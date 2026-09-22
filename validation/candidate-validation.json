@@ -1,0 +1,102 @@
+{
+  "baseline_version": "1.0.0",
+  "baseline_files_verified": 35,
+  "changed_files": [
+    "humanities-argument/SKILL.md",
+    "humanities-close-reading/SKILL.md",
+    "humanities-research/references/methods/critical-genealogical.md",
+    "humanities-research/references/methods/historical-philological.md",
+    "humanities-scholarship/SKILL.md",
+    "humanities-source-discovery/SKILL.md",
+    "humanities-writing/references/genres-and-delivery.md"
+  ],
+  "candidate_files": {
+    "humanities-argument/agents/openai.yaml": "0276905700e3551b3c320270d5a84a1fac34b9c271ddc7be28ea8446aacbd507",
+    "humanities-argument/SKILL.md": "abadf16f2ea2932f3a356998217aea367a074192813fb289ce198160389105f1",
+    "humanities-author-voice/agents/openai.yaml": "85c28ad455ff1fe32ae38ecc61d0825b874c558aaf3feee65138e1e42adfa1ba",
+    "humanities-author-voice/references/initial-preferences.md": "40f9aaa01d4482277e64727063af98ef1dbd7be063f19893e03e3a5c401fb154",
+    "humanities-author-voice/references/voice-profile.md": "f18259b56e42c8df81b1c22ee6d3e15208e45355d8a7167a89a6be721affae66",
+    "humanities-author-voice/SKILL.md": "6cc6a9250faf9a9bf115f3207aa297005e726b3169ea4ddec10524f3d96b78ce",
+    "humanities-close-reading/agents/openai.yaml": "288547ef589fd7b9ee74d0944f474121071e43a37c41b0c84e454fba15e4a06b",
+    "humanities-close-reading/SKILL.md": "b784433bc8624f126eee01e2491ab852b966ce50962aae0ab45609c97f8575ff",
+    "humanities-concept-work/agents/openai.yaml": "2ee10935d574f0a7a45a1ac9f2079edb4854b58820218ea6a4dc8b8dd167becb",
+    "humanities-concept-work/SKILL.md": "577c11380deac1e77b47d50c4d7b3b5c97b4b1678c64c210ab90cd66a6f39ae1",
+    "humanities-question-design/agents/openai.yaml": "31a3160b3f084924230ae8bc43e8d4ae47fb710e2894936d9fb98733780a4a52",
+    "humanities-question-design/SKILL.md": "6414c5dece6f3b96d44dcfbf3ec5f78ce53727f5ff1d252e4e28bbcb232668e3",
+    "humanities-research/agents/openai.yaml": "860b6d0c135851a8a1a957f91e2ce914238d73a9bd0eff4dd5274d4402d0449b",
+    "humanities-research/references/design-sources.md": "9a8b97674a61c9e45e7d419e9f792c8534998e01412ea31b671e255339e8447f",
+    "humanities-research/references/method-router.md": "91703caf7244e854fea46058a6d14ece56dac0e9b0916895c5c817c17ac9af3f",
+    "humanities-research/references/methods/aesthetic.md": "9adaafd9567cc5d4929a9b467843aba1e3698473e22d61ba2e0850f1fe186338",
+    "humanities-research/references/methods/comparative.md": "b55d6bd1a1145e32b1a3a72d2dab2c9310d482c4ccb22ab1eb3eaf83b6568ab9",
+    "humanities-research/references/methods/critical-genealogical.md": "ff6134b4c7c84b38291b01221294138814c04718307810a416aead1fd51497aa",
+    "humanities-research/references/methods/historical-philological.md": "32f5faf580d8c2fa812005085fb8573a85defda13fceef8b3fa0efa1db0f9009",
+    "humanities-research/references/methods/literary.md": "443ca2cb1d38c5db8fb6e1a0560c0c38c169727a2f1071d186663491a9f95335",
+    "humanities-research/references/methods/phenomenological-hermeneutic.md": "5b4e238d893c8692afc435d90f41ce77500de75d064cf93ad4ebeeb2012dfb7c",
+    "humanities-research/references/methods/philosophical.md": "e62435cbd02cc1abe915460744b9d069a7b075741c38b6550178014132898069",
+    "humanities-research/references/methods/religion-practice.md": "af4f93ec228de536e092a868b74717224bab5e4f3758844a85c3e3f8e461caa5",
+    "humanities-research/references/project-continuity.md": "d61f8dfe2ce056a80936c029de13f032c7a788889695094001044069ffb99793",
+    "humanities-research/references/research-contract.md": "45886662fb1c32dd45548f6c0ff017c9b5df8e738b0969a7635b3117535becb1",
+    "humanities-research/SKILL.md": "b166d1346ecb2f5b7ba7f4f2417c86fed92e2b06b3157d919a44328c1678a470",
+    "humanities-review/agents/openai.yaml": "c20a4ee9aef03d89e6596f02b1d4e4a7dd256eba597a91889f41f9bbf5e2cbe0",
+    "humanities-review/SKILL.md": "eba4027b12ae8c500cbd895d61ea468511e89ef5864077423007a2a71a9b5909",
+    "humanities-scholarship/agents/openai.yaml": "1aedb5d46814229cc2a00719cf795c6e6799b05e5bb0f3f0fa637f382bdbd62f",
+    "humanities-scholarship/SKILL.md": "113879a8fbccb99994870484ea57e96e4132419d1cee06d8d7dbf9a6248efbd5",
+    "humanities-source-discovery/agents/openai.yaml": "11a35ba45a7aec7361e88faf2e655b544e3ee64cc542a6e49a38029d34cc6e3c",
+    "humanities-source-discovery/SKILL.md": "d7eb0d18042fd5659075eb8d7b3e314bf1d4a54de2d2b383a4840b78889b1330",
+    "humanities-writing/agents/openai.yaml": "8f23bd21506a829cf9dd7279914943d11fafdc63809035fcfee2acfd5e5273b9",
+    "humanities-writing/references/genres-and-delivery.md": "2b4b3a9e70075907bd6775c3dbc96a2f941d940e8c4b8a07b46169d670a246ba",
+    "humanities-writing/SKILL.md": "942c81c544f63505386e410d7f1bb8984ec22d0bbc2d62953389dcb29dcd58ab"
+  },
+  "checks": [
+    {
+      "skill": "humanities-argument",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    },
+    {
+      "skill": "humanities-author-voice",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    },
+    {
+      "skill": "humanities-close-reading",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    },
+    {
+      "skill": "humanities-concept-work",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    },
+    {
+      "skill": "humanities-question-design",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    },
+    {
+      "skill": "humanities-research",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    },
+    {
+      "skill": "humanities-review",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    },
+    {
+      "skill": "humanities-scholarship",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    },
+    {
+      "skill": "humanities-source-discovery",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    },
+    {
+      "skill": "humanities-writing",
+      "exit_code": 0,
+      "output": "Skill is valid!"
+    }
+  ]
+}

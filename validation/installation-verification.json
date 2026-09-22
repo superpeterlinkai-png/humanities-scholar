@@ -1,0 +1,10 @@
+{
+  "date": "2026-09-22",
+  "skills": 10,
+  "verified_skill_files": 35,
+  "destination": "<USER_HOME>\\.codex\\skills",
+  "manifest_sha256": "ebaacb046ec9a44b664eb0cb007e71d15be24307cc6074b11b3895a9ceb05abf",
+  "protocol_sha256": "8a2de056908783f97159d2223f1f7e7b58b649d50831cbd652564fc181bf17e6",
+  "result": "PASS",
+  "runtime_discovery": "not tested in a fresh task"
+}

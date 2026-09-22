@@ -1,0 +1,6 @@
+interface:
+  display_name: "学者思想与学术对话"
+  short_description: "重建学者问题与论证，组织学术争论，形成有依据的文献综述"
+  default_prompt: "请使用 $humanities-scholarship 完成当前任务，结合已有材料作出有依据的判断并交付所需成果。"
+policy:
+  allow_implicit_invocation: true

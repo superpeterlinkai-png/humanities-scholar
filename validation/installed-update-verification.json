@@ -1,0 +1,15 @@
+{
+  "destination": "<USER_HOME>\\.codex\\skills",
+  "updated_files": [
+    "humanities-argument/SKILL.md",
+    "humanities-close-reading/SKILL.md",
+    "humanities-research/references/methods/critical-genealogical.md",
+    "humanities-research/references/methods/historical-philological.md",
+    "humanities-scholarship/SKILL.md",
+    "humanities-source-discovery/SKILL.md",
+    "humanities-writing/references/genres-and-delivery.md"
+  ],
+  "verified_files": 35,
+  "unchanged_files": 28,
+  "result": "PASS"
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "研究成文"
+  short_description: "完成中英文学术正文、计划、摘要、翻译与编辑，保留作者声音"
+  default_prompt: "请使用 $humanities-writing 完成当前任务，结合已有材料作出有依据的判断并交付所需成果。"
+policy:
+  allow_implicit_invocation: true

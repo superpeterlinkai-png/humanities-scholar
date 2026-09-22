@@ -1,0 +1,6 @@
+interface:
+  display_name: "材料检索与核实"
+  short_description: "查找原始材料与专业研究，核实版本、引用定位及材料实际读取范围"
+  default_prompt: "请使用 $humanities-source-discovery 完成当前任务，结合已有材料作出有依据的判断并交付所需成果。"
+policy:
+  allow_implicit_invocation: true

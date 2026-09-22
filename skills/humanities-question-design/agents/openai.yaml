@@ -1,0 +1,6 @@
+interface:
+  display_name: "问题与研究设计"
+  short_description: "把宽泛兴趣发展为可回答的问题，完成具体试探、选题和研究设计"
+  default_prompt: "请使用 $humanities-question-design 完成当前任务，结合已有材料作出有依据的判断并交付所需成果。"
+policy:
+  allow_implicit_invocation: true

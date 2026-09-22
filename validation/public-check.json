@@ -1,0 +1,23 @@
+{
+  "validate.py": {
+    "skills": 10,
+    "hashed_files": 35,
+    "local_links": 45,
+    "result": "PASS"
+  },
+  "tests/test_install.py": {
+    "valid_install": {
+      "installed": 10,
+      "verified_files": 35
+    },
+    "duplicate_install": "rejected; existing files byte-identical",
+    "unrelated_file": "preserved",
+    "tampered_package": "rejected before destination creation",
+    "result": "PASS"
+  },
+  "edition": "public",
+  "unchanged_skill_files": 33,
+  "adapted_skill_files": 2,
+  "privacy": "personal profile replaced; private paths redacted",
+  "result": "PASS"
+}

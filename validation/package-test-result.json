@@ -1,0 +1,12 @@
+{
+  "valid_install": {
+    "installed": 10,
+    "verified_files": 35,
+    "destination": "<USER_HOME>\\Documents\\Codex\\2026-09-22\\wo\\work\\package-test-kb61l7nu\\installed"
+  },
+  "duplicate_install": "rejected; existing files byte-identical",
+  "unrelated_file": "preserved",
+  "tampered_package": "rejected before destination creation",
+  "scratch": "<USER_HOME>\\Documents\\Codex\\2026-09-22\\wo\\work\\package-test-kb61l7nu",
+  "result": "PASS"
+}

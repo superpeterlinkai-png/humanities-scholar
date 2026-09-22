@@ -1,0 +1,6 @@
+interface:
+  display_name: "审读与修订"
+  short_description: "检查决定结论的学术问题，落实修订、评审回应和必要的交付检查"
+  default_prompt: "请使用 $humanities-review 完成当前任务，结合已有材料作出有依据的判断并交付所需成果。"
+policy:
+  allow_implicit_invocation: true

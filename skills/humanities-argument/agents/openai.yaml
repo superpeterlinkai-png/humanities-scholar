@@ -1,0 +1,6 @@
+interface:
+  display_name: "学术论证"
+  short_description: "提出并检验实质主张，处理关键推论、有力反驳和相应的论证修订"
+  default_prompt: "请使用 $humanities-argument 完成当前任务，结合已有材料作出有依据的判断并交付所需成果。"
+policy:
+  allow_implicit_invocation: true

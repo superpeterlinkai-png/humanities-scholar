@@ -7,7 +7,8 @@ import sys
 import tempfile
 
 package = Path(__file__).resolve().parents[1]
-scratch = Path(tempfile.mkdtemp(prefix="humanities-install-test-"))
+scratch_context = tempfile.TemporaryDirectory(prefix="humanities-install-test-")
+scratch = Path(scratch_context.name)
 destination = scratch / "installed"
 destination.mkdir()
 sentinel = destination / "unrelated-skill.txt"
@@ -28,7 +29,7 @@ assert hashes(destination) == first, "Rejected duplicate install changed existin
 assert sentinel.read_text(encoding="utf-8") == "Preserve existing unrelated files.\n"
 
 damaged = scratch / "damaged-package"
-shutil.copytree(package, damaged)
+shutil.copytree(package, damaged, ignore=shutil.ignore_patterns(".git", "examples", "__pycache__"))
 entry = damaged / "skills" / "humanities-research" / "SKILL.md"
 with entry.open("a", encoding="utf-8") as stream:
     stream.write("\nTest-only change.\n")
@@ -44,4 +45,5 @@ report = {
     "tampered_package": "rejected before destination creation",
     "result": "PASS",
 }
+scratch_context.cleanup()
 print(json.dumps(report, ensure_ascii=False))

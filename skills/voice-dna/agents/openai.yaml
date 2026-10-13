@@ -1,0 +1,4 @@
+interface:
+  display_name: "VoiceDNA"
+  short_description: "Revise prose into your real voice"
+  default_prompt: "Use $voice-dna to rewrite this draft in my voice without sanding off the edges."

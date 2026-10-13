@@ -1,0 +1,100 @@
+[
+  {
+    "case": "S01",
+    "version": "A",
+    "original_body_han": 20163,
+    "public_body_han": 20163,
+    "sha256": "012914950f8cc08d8fff1e42e79bf96b5514651877f24f96d77e94d27c4dc46c"
+  },
+  {
+    "case": "S01",
+    "version": "B",
+    "original_body_han": 20444,
+    "public_body_han": 20444,
+    "sha256": "82391923634355144799981ff814a66ffa1e7d88edb4bee5b1cd117085f17bb2"
+  },
+  {
+    "case": "S01",
+    "version": "C",
+    "original_body_han": 20296,
+    "public_body_han": 20296,
+    "sha256": "38136ebc67944c342a010449c7929049e1324e046187e24c0f38cc8756f95471"
+  },
+  {
+    "case": "S02",
+    "version": "A",
+    "original_body_han": 20116,
+    "public_body_han": 20116,
+    "sha256": "a09014992a424d04872ba3d40140ed56943ec1fd17f7ba69eb117eb92a373897"
+  },
+  {
+    "case": "S02",
+    "version": "B",
+    "original_body_han": 20230,
+    "public_body_han": 20230,
+    "sha256": "4c6922c76d48ea0c6b956b9fb529ba76b3e1641fc667f32a8a5e4e98ca4cfe06"
+  },
+  {
+    "case": "S03",
+    "version": "A",
+    "original_body_han": 20323,
+    "public_body_han": 20345,
+    "sha256": "f54596486cbefe614db6b2cee96415c09521733c8a567b2bdfef95c61b45de0c"
+  },
+  {
+    "case": "S03",
+    "version": "B",
+    "original_body_han": 20155,
+    "public_body_han": 20178,
+    "sha256": "c4e890e251d20915ac66b7144f0c44c9b78ed212a5db420dbcab163598c0329b"
+  },
+  {
+    "case": "S04",
+    "version": "A",
+    "original_body_han": 20357,
+    "public_body_han": 20357,
+    "sha256": "44f4c5b741a5673dc97c0abbfe5a6804dd2be9cf2a4a37c63fcaf06cd79d5af6"
+  },
+  {
+    "case": "S04",
+    "version": "B",
+    "original_body_han": 20362,
+    "public_body_han": 20362,
+    "sha256": "cbb5f7082e00f12d38568020114603c6d584d28b5aa0ad47ab544532682f6d70"
+  },
+  {
+    "case": "S05",
+    "version": "A",
+    "original_body_han": 20697,
+    "public_body_han": 20701,
+    "sha256": "475861f2c647bc5198c726e82cee6b10128f06063d71d2b3c91afc4a3432faf7"
+  },
+  {
+    "case": "S05",
+    "version": "B",
+    "original_body_han": 20082,
+    "public_body_han": 20082,
+    "sha256": "2ae8a2776215288ae721f7e61e8b5a92c989e11937160f7b4e1abdb85cd32fa1"
+  },
+  {
+    "case": "S05",
+    "version": "C",
+    "original_body_han": 20738,
+    "public_body_han": 20738,
+    "sha256": "d8cddb0d076dcd509c4a3cfb112c4e24cd593ee465da50c000eda09c37ee7d1e"
+  },
+  {
+    "case": "S06",
+    "version": "A",
+    "original_body_han": 20303,
+    "public_body_han": 20303,
+    "sha256": "caaf89ff4e7d73a4cdd0e6b98ebd843a0eda6bb9bd40994a939a9f67dee881fe"
+  },
+  {
+    "case": "S06",
+    "version": "B",
+    "original_body_han": 20074,
+    "public_body_han": 20074,
+    "sha256": "b35153ea55a8c4e951570e0416bc71421014c012c5aef5f499f60bfd9ff2fd26"
+  }
+]

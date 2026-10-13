@@ -16,13 +16,16 @@ def main():
     for name in names:
         folder = root / "skills" / name
         body = (folder / "SKILL.md").read_text(encoding="utf-8")
-        front = re.match(r"\A---\nname: ([a-z-]+)\ndescription: (.+)\n---\n", body)
+        front = re.match(r"\A---\nname: ([a-z-]+)\ndescription: (.+)\n(?:[^\n]*\n)*?---\n", body)
         if not front or front[1] != name:
             raise ValueError(f"Invalid skill frontmatter: {name}")
         description = json.loads(front[2])
         if not description or len(description) > 1024:
             raise ValueError(f"Invalid description: {name}")
-        ui = (folder / "agents" / "openai.yaml").read_text(encoding="utf-8")
+        ui_path = folder / "agents" / "openai.yaml"
+        if not ui_path.exists():
+            continue
+        ui = ui_path.read_text(encoding="utf-8")
         match = re.search(r"^  default_prompt: (.+)$", ui, re.M)
         if not match or "$" + name not in json.loads(match[1]):
             raise ValueError(f"Missing invocation in prompt: {name}")

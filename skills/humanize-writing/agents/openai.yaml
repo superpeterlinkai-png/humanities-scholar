@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanize Writing"
+  short_description: "Make prose sound human without changing facts."
+  default_prompt: "Use $humanize-writing for this task. Humanize this text while preserving facts, citations, and voice:"

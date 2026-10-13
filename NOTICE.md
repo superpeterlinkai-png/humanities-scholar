@@ -1,11 +1,21 @@
-# 来源与修改说明
+# 来源、署名与许可
 
-本套由 superpeterlinkai-png 维护，包含 AI 辅助起草与修订。当前十个 humanities-* 入口及方法分支在2026-09-22重新组织，并在六项研究任务后作局部改进；不把重组文件等同于已经证明一种全新的研究机制。
+由 GitHub 维护者 superpeterlinkai-png 维护，包含 AI 辅助起草、改编与审读。2.0.0 将研究、写作、审读设为三个自足入口，其内部专项保持独立文件；另附七项可选技能及匿名长文试验案例。
 
-前期工作是对 [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) 的人文适配，当前仍延续其中若干研究协作与证据原则。前期来源核查记录的上游版本为 [aff5de9e5b902df0ef51e955d4c78b22793d763a](https://github.com/HKUSTDial/Supervisor-Skills/tree/aff5de9e5b902df0ef51e955d4c78b22793d763a)。上游方法论版权说明：Copyright (c) 2026 Yuyu Luo and contributors。保留这一沿革，不声称所有方法从零产生。
+## 方法与专项来源
 
-为保留前期适配的署名、非商业和相同方式共享条件，本套统一采用 CC BY-NC-SA 4.0。本包不含上游另行使用MIT许可的drawio-reconstruction目录。没有任何上游作者、学者、机构或OpenAI对本套提供背书。
+前期人文研究适配源自 [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills)，历史来源核查版本为 [aff5de9e5b902df0ef51e955d4c78b22793d763a](https://github.com/HKUSTDial/Supervisor-Skills/tree/aff5de9e5b902df0ef51e955d4c78b22793d763a)。Copyright (c) 2026 Yuyu Luo and contributors。研究协作与证据原则延续这一沿革。其学术方法来源见各主要入口的 `resources/humanities-research/references/design-sources.md`。
 
-学术方法来源及实际读取范围见 skills/humanities-research/references/design-sources.md。所引学术材料不因此变成本仓库许可的作品；本仓库没有分发下载的现代书刊全文。
+中文表达清单保留 [Humanizer-zh](https://github.com/op7418/Humanizer-zh) 的 MIT 署名（Copyright (c) 2026 歸藏），并参考 [blader/humanizer](https://github.com/blader/humanizer)（MIT，Copyright (c) 2025 Siqi Chen）与 [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop)（MIT，Copyright (c) 2025 Hardik Pandya）。改编重点是语义保留、限定编辑范围、编号选择、上下文复核及防御性表达判断。相关许可随每个包含该材料的技能目录分发。`humanize-writing` 的表达模式参考亦注明 blader/humanizer 来源。
 
-1.1.0公开适配只改动作者声音入口中的个人档案链接说明及对应的偏好采集文件，并清理报告路径。安装在原使用者本机的私人偏好版本未被此公开适配覆盖。原始研究稿、真实作者样本和项目档案不随本包发布。
+`drawio-reconstruction` 保留其 MIT 许可、VCG-Bench Authors 署名及原有示例资产。`benchmark-paper-template`、`figure-designer`、`tech-paper-template` 保留各自 frontmatter 的 CC-BY-4.0 声明；其来源沿革见上述 Supervisor-Skills。未宣称上游作者、学术作者、机构或 OpenAI 为本套背书。
+
+## 许可范围
+
+根目录 [LICENSE](LICENSE) 的 CC BY-NC-SA 4.0 用于本套主体的人文适配指引、整合说明和维护者可许可的原创贡献。上述 MIT 与 CC-BY-4.0 文件继续按其自身许可分发；这里的总说明不重新授权第三方材料，也不撤销它们已经给予的权利。技能中的 `LICENSE` 或 `licenses/` 文件保留相应完整条款。
+
+案例包含 AI 生成稿及其中的学术引文。维护者可许可的编排与注释适用仓库许可；所引书刊、古籍版本与学术来源的既有权利不因此改变。仓库没有分发私人原稿、现代书刊扫描或场景材料原文件。
+
+## 公开适配
+
+个人写作档案改为供每位使用者建立自己偏好的说明，真实样本、学习经历、私有路径及原始身份资料不分发。案例使用主题编号与匿名来源代号。公开适配不回写维护者的私人安装；不把协作生成稿描述成未经协助的原生声音样本。匿名化之外的学术缺陷保留，便于检验实际效果。

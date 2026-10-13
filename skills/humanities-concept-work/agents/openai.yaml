@@ -1,6 +1,0 @@
-interface:
-  display_name: "概念与理论工作"
-  short_description: "分析概念的推论作用，在具体材料中检验、修改和发展理论解释"
-  default_prompt: "请使用 $humanities-concept-work 完成当前任务，结合已有材料作出有依据的判断并交付所需成果。"
-policy:
-  allow_implicit_invocation: true

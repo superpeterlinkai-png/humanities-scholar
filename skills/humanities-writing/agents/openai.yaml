@@ -1,6 +1,6 @@
 interface:
-  display_name: "研究成文"
-  short_description: "完成中英文学术正文、计划、摘要、翻译与编辑，保留作者声音"
-  default_prompt: "请使用 $humanities-writing 完成当前任务，结合已有材料作出有依据的判断并交付所需成果。"
+  display_name: "学术写作与编辑"
+  short_description: "按指定范围起草、翻译与修改正文，保留思想、引文及作者声音"
+  default_prompt: "使用 $humanities-writing 完成当前委托，按实际需要配合内部专项模块，保留我的范围要求、原意和来源依据。"
 policy:
   allow_implicit_invocation: true

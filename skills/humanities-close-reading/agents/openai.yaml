@@ -1,6 +1,0 @@
-interface:
-  display_name: "深入阅读与解释"
-  short_description: "通过措辞、结构和语境展开深入细读，比较竞争读法并形成解释"
-  default_prompt: "请使用 $humanities-close-reading 完成当前任务，结合已有材料作出有依据的判断并交付所需成果。"
-policy:
-  allow_implicit_invocation: true

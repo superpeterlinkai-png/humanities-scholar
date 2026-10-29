@@ -1,0 +1,86 @@
+[
+  {
+    "path": "results/baseline/01-philosophical-reading.md",
+    "han_characters": 1677,
+    "english_words": 0,
+    "paragraphs": 8,
+    "sha256": "c51c8037a75c8bb0c6a244267fa3f63010b8f562a1b7593a204e790ea4c314d6"
+  },
+  {
+    "path": "results/baseline/02-literary-religious-experience.md",
+    "han_characters": 1668,
+    "english_words": 0,
+    "paragraphs": 9,
+    "sha256": "ff9645cbf5acb1eeb2ed96a776e9ab349953dfc33e7df2076d842222e66ad5be"
+  },
+  {
+    "path": "results/baseline/03-aesthetics-essay.md",
+    "han_characters": 0,
+    "english_words": 1041,
+    "paragraphs": 9,
+    "sha256": "99e58ff74623309676009cd308e3c81934a574b3150adf1451d80e099ca6b64d"
+  },
+  {
+    "path": "results/candidate/01-philosophical-reading.md",
+    "han_characters": 1636,
+    "english_words": 0,
+    "paragraphs": 8,
+    "sha256": "75b3e4a41050f3bc872abbb07e80f48d0f8034e484b75d0a381c83749c19ba7d"
+  },
+  {
+    "path": "results/candidate/02-literary-religious-experience.md",
+    "han_characters": 1653,
+    "english_words": 0,
+    "paragraphs": 9,
+    "sha256": "c4468644c2ba0a6042a3e94747e2a810a0617d9453c027890d777d03d8be8e59"
+  },
+  {
+    "path": "results/candidate/03-aesthetics-essay.md",
+    "han_characters": 0,
+    "english_words": 1078,
+    "paragraphs": 10,
+    "sha256": "2cc892ebfb71c78b21aabf2062aaa70dcbad31ec70a48720d677e32aba8d48c3"
+  },
+  {
+    "path": "results/candidate/04-negative-argument-review.md",
+    "han_characters": 1099,
+    "english_words": 0,
+    "paragraphs": 6,
+    "sha256": "10a6821a7d48c65cff6fffa98caf6009bd8b11acd36b53c0108706d2261c2e94"
+  },
+  {
+    "path": "results/candidate/05-selected-local-revision.md",
+    "han_characters": 442,
+    "english_words": 0,
+    "paragraphs": 7,
+    "sha256": "6e7b83e61751eab50ffe76edb06a02e38e593129c8dd5ef7849fb178166c4580"
+  },
+  {
+    "path": "results/candidate/06-interdisciplinary-religion.md",
+    "han_characters": 1140,
+    "english_words": 0,
+    "paragraphs": 6,
+    "sha256": "a11e73f4a568ad1b8acb1dc4cc110602717e285c84c3acc4939c177712a7a380"
+  },
+  {
+    "path": "results/revised/01-philosophical-reading.md",
+    "han_characters": 1648,
+    "english_words": 0,
+    "paragraphs": 8,
+    "sha256": "5d93958569570f8cafdb0618b4335d284aa90e18a4636b368e0f8fe67a7164f7"
+  },
+  {
+    "path": "results/revised/02-literary-religious-experience.md",
+    "han_characters": 1668,
+    "english_words": 0,
+    "paragraphs": 9,
+    "sha256": "5811e418519bf2b386e7313dd5b5c37a723a088c98f83ca5b010fe70cb975cf9"
+  },
+  {
+    "path": "results/revised/03-aesthetics-essay.md",
+    "han_characters": 0,
+    "english_words": 1048,
+    "paragraphs": 8,
+    "sha256": "24930ac8dd81e8a7be0fcecd2c075f58df7eb4b0e8c350840ab509e36a58cb24"
+  }
+]

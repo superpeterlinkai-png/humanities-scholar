@@ -9,6 +9,21 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from install import checked_sources
 
 
+def string_scalar(value):
+    """Read the single-line string scalars used by the package metadata."""
+    if value.startswith('"'):
+        result = json.loads(value)
+    elif value.startswith("'") and value.endswith("'"):
+        result = value[1:-1].replace("''", "'")
+    else:
+        if not value or value[0] in "'[{&*!|>@`" or ': ' in value or ' #' in value:
+            raise ValueError(f"Unsupported metadata scalar: {value}")
+        result = value
+    if not isinstance(result, str):
+        raise ValueError("Metadata field must be a string")
+    return result
+
+
 def main():
     root = Path(__file__).resolve().parent
     names, expected = checked_sources(root)
@@ -16,18 +31,21 @@ def main():
     for name in names:
         folder = root / "skills" / name
         body = (folder / "SKILL.md").read_text(encoding="utf-8")
-        front = re.match(r"\A---\nname: ([a-z-]+)\ndescription: (.+)\n---\n", body)
+        front = re.match(r"\A---\nname: ([a-z-]+)\ndescription: (.+)\n(?:[^\n]*\n)*?---\n", body)
         if not front or front[1] != name:
             raise ValueError(f"Invalid skill frontmatter: {name}")
-        description = json.loads(front[2])
+        description = string_scalar(front[2])
         if not description or len(description) > 1024:
             raise ValueError(f"Invalid description: {name}")
-        ui = (folder / "agents" / "openai.yaml").read_text(encoding="utf-8")
+        ui_path = folder / "agents" / "openai.yaml"
+        if not ui_path.exists():
+            continue
+        ui = ui_path.read_text(encoding="utf-8")
         match = re.search(r"^  default_prompt: (.+)$", ui, re.M)
-        if not match or "$" + name not in json.loads(match[1]):
+        if not match or "$" + name not in string_scalar(match[1]):
             raise ValueError(f"Missing invocation in prompt: {name}")
         match = re.search(r"^  short_description: (.+)$", ui, re.M)
-        if not match or not 25 <= len(json.loads(match[1])) <= 64:
+        if not match or not 25 <= len(string_scalar(match[1])) <= 64:
             raise ValueError(f"Invalid UI description length: {name}")
     for path in (root / "skills").rglob("*.md"):
         content = path.read_text(encoding="utf-8")

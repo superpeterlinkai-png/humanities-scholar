@@ -1,63 +1,53 @@
 # Humanities Scholar · 人文学术研究 Skills
 
-面向哲学、宗教学、文学、美学及交叉研究的十项 Codex skills。根据当前研究困难选择下一项工作，推进选题、材料读取、解释、论证、成稿与修订。**版本：1.1.0，公开分发版。**
+**2.1.0 · 针对 ChatGPT 防御性生成的修订。** 三个主要入口：研究、写作、审读。帮助哲学、宗教学、文学及交叉研究在具体材料中形成解释、发展论证，并完成所需正文。
 
-Ten skills for source-grounded humanities research, argument development, writing, and revision. Chinese instructions support Chinese and English academic work. These skills guide research decisions; they do not supply an expert knowledge database or guarantee doctoral-level results.
+This release addresses defensive generation in ChatGPT: repeated precautionary qualifications, author-auditing that displaces independent thought, and fragmented exposition after caveats are removed. It develops substantive interpretation during drafting and reviews the resulting text against its actual task.
 
-## 使用
+## 三个入口
 
-完整研究任务调用 `$humanities-research`，由其按需读取其他能力。已有材料可直接进入写作，出现解释困难时再返回细读或检索。
-
-> 用 $humanities-research 完成这篇论文。读取已有要求与材料，自主形成并检验暂定论点，补足必要检索和细读，完成正文与审读。保留我已说明的表达偏好，交代实质思想取舍及证据限制。
-
-| Skill | 工作 |
+| 入口 | 工作 |
 |---|---|
-| humanities-research | 全流程推进、研究困难诊断与连续项目衔接 |
-| humanities-question-design | 从材料和问题形成研究设计 |
-| humanities-source-discovery | 检索原文、确认版本与引用依据 |
-| humanities-close-reading | 具体措辞、形式、语境和竞争解释 |
-| humanities-scholarship | 重建学者思想、争论与研究介入 |
-| humanities-concept-work | 概念分析、理论试用与重构 |
-| humanities-argument | 支持链、反例、反驳与主张修订 |
-| humanities-author-voice | 依据当前作者样本与偏好适配声音 |
-| humanities-writing | 中英文正文、计划、摘要、翻译与编辑 |
-| humanities-review | 实质审读、修订及评审回应 |
+| [humanities-research](skills/humanities-research/SKILL.md) | 研究问题、检索、细读、概念工作及跨步骤研究 |
+| [humanities-writing](skills/humanities-writing/SKILL.md) | 起草、翻译、论述展开及指定范围的编辑 |
+| [humanities-review](skills/humanities-review/SKILL.md) | 判断已有稿件形成的认识、检查论证并执行获准修改 |
 
-方法分支包括哲学论证、历史与语文学、现象学与诠释学、批判性研究、宗教实践、文学、美学、比较与翻译。按主张所需的证据选择方法，同一项目可结合多个分支。
+每个入口自带按需读取的模块和资源。共用内容从研究入口维护并同步，单个入口可以独立安装。另附七项可选技能：humanizer-zh、humanize-writing、voice-dna、figure-designer、drawio-reconstruction、benchmark-paper-template、tech-paper-template。
+
+## 这次具体改了什么
+
+ChatGPT 的防御性生成会让文章不断说明自己没有证明什么。这样的写法也会进入任务设计：个人讨论被固定为“作者最佳回应—剩余困难—限定结论”，自己的解释迟迟没有展开。仅删去这些句子，容易留下缺少联系的短段。
+
+本版从生成目标入手：在材料中发展自己的解释，让例子、概念辨析与推论共同推进；阅读报告可以延展、重释、比较或反驳作者；段落按思考的实际转折组织。成形后的审读先辨认文章取得了什么认识，再检查其依据。真实否定、具体条件、来源归属及局部修改范围继续按原意处理。
+
+方法与完整样例见 [argument-development.md](skills/humanities-research/resources/humanities-writing/references/argument-development.md)。
+
+## 直接查看改进
+
+- [新构造测试：材料、任务、原始输出与评阅](examples/defensive-generation/README.md)
+- [已有通用案例：旧稿、问题定位和新技能改稿](examples/revisions/README.md)
+- [版本变化](CHANGES.md)与[实际验证](VALIDATION.md)
+
+测试材料由独立任务重新构造，或来自注明来源的公开原典练习；公开包不包含私人指令、声音档案、课程资料或个人论文。旧长文测试集已移除。
 
 ## 安装
 
-下载 Releases 中的完整包并解压，需要 Python 3.10 或更高版本，无第三方 Python 依赖。十个技能共享相对路径，须一起安装。
+从本仓库下载当前版本，或从对应 `skills/<入口名称>` 路径安装单个技能。完整安装需要 Python 3.10+，不需要第三方 Python 库：
 
 ```powershell
 python validate.py
 python install.py --destination "$env:USERPROFILE\.codex\skills"
 ```
 
-macOS / Linux 示例：
+macOS / Linux 使用 `python3` 和目标目录 `"$HOME/.codex/skills"`。安装器核对清单与哈希，拒绝覆盖已有同名目录；升级前整理自己的旧版与私人修改。保持三个现行入口，避免同时激活被其替代的旧独立入口。
 
-```sh
-python3 validate.py
-python3 install.py --destination "$HOME/.codex/skills"
-```
+## 维护
 
-`--destination` 应指向当前安装实际使用的技能目录。安装器核对文件哈希、拒绝覆盖已有同名目录，并在写入后回读核验。它是首次安装器；已有安装应先保留个人改动，再明确处理目录冲突。技能是否已被当前会话发现，以实际运行结果为准。
-
-## 设计与验证
-
-本套另建十个入口，并延续此前人文改造工作中的若干原则；不宣称已经彻底重建全部研究机制。六领域完整文章研究后，1.1.0局部修改七个文件，处理选择性引注、弱化对手、贡献定位、规范范围及来源载体等问题。三次非作者模型复测仍发现初审遗漏，已据原文修订。
-
-见 [验证报告](VALIDATION.md)、[改动记录](CHANGES.md)、[设计依据](skills/humanities-research/references/design-sources.md) 和 [来源说明](NOTICE.md)。研究工作与技能效果没有无技能或旧版对照，不能据此认证普遍博士水平、全球原创性或真实作者声音。原始研究稿及私人项目资料不包含在此技能仓库。
-
-公开版仅将个人偏好改为通用采集说明，并清理验证记录中的本机路径；其余33个技能文件与本地1.1.0一致。历史验证哈希对应当时的本地版本；当前公开文件以根目录 `MANIFEST.json` 为准。个人声音需要由每位作者自己的原始文本与纠正建立。
-
-## 校验与维护
-
-```sh
+```text
 python validate.py
 python tests/test_install.py
+python tests/test_publication.py
+python skills/humanities-research/scripts/sync_shared.py
 ```
 
-GitHub Actions 对主分支推送和拉取请求运行以上检查。它们验证安装和结构，不替代学术评价。问题报告请避免附带私人文章、个人路径或凭据。
-
-本仓库采用 CC BY-NC-SA 4.0，来源及修改说明见 [NOTICE.md](NOTICE.md)，许可见 [LICENSE](LICENSE)。
+许可及上游署名见 [NOTICE.md](NOTICE.md)。

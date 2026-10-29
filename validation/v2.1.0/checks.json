@@ -1,0 +1,36 @@
+{
+  "structure": {
+    "skills": 10,
+    "hashed_files": 225,
+    "local_links": 346,
+    "result": "PASS"
+  },
+  "install": {
+    "valid_install": {
+      "installed": 10,
+      "verified_files": 225
+    },
+    "duplicate_install": "rejected; existing files byte-identical",
+    "unrelated_file": "preserved",
+    "tampered_package": "rejected before destination creation",
+    "result": "PASS"
+  },
+  "publication": {
+    "new_tasks": 6,
+    "paired_tasks": 3,
+    "existing_case_source_snapshots": 6,
+    "artifact_files": 80,
+    "scoped_edit": "exact match",
+    "scanned_text_files": 309,
+    "result": "PASS"
+  },
+  "shared_modules": {
+    "shared_files": 47,
+    "differences": [],
+    "written": false
+  },
+  "publication_links": {
+    "checked": 65,
+    "result": "PASS"
+  }
+}

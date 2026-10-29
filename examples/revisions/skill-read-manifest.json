@@ -1,0 +1,118 @@
+{
+  "version": "candidate package",
+  "date": "2026-10-29",
+  "activity": "review and revision with prior reference outputs visible",
+  "entries": [
+    {
+      "path": "skills/humanities-review/SKILL.md",
+      "sha256": "508fe2c5fd2e54a0c7adba2fb42cf6f36e9384a0425ad8b0c940cad859283e34",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-writing/SKILL.md",
+      "sha256": "45787ea91faf8c9789f5ec937f19976becbc1028178da0723f88c8e45afa5b20",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-review/modules/review.md",
+      "sha256": "c587f273d0ace229b10e2d4f525e8548d1c3eea1070d420430da3a1241d2a3b6",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-review/modules/argument.md",
+      "sha256": "26f88c7fec4c946883b1cfe66818107d940b715dc10846c49fe3730df4018f0b",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-review/modules/concept-work.md",
+      "sha256": "5ad060bcfaa6670682c2a5d7d1d6e1a40f686e0d279a627746857b7f864e1a7f",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-review/modules/close-reading.md",
+      "sha256": "a0d038b21f6be99d61f4e107d3dca626c271d0663992288d19ecfd60d13f3174",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-review/resources/humanities-research/references/research-contract.md",
+      "sha256": "fe6b92db9aa83f7b4359bb0245ca481e20333cf60b691bb81dfa8009644b0c9c",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-review/resources/humanities-research/references/method-router.md",
+      "sha256": "04292c1de3d3492b65437744a7564ec58aea4f25601bc2da58f46db15ae3bada",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-review/resources/humanities-research/references/methods/philosophical.md",
+      "sha256": "57f1364184890447f9f6f435ecaae43d163689ff20614f4583395e460d069511",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-writing/modules/writing.md",
+      "sha256": "4cb343a715c117424c5db1d54e08f2a4bf1c91150f77521917018b5acc12fbb2",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-writing/modules/defensive-editing.md",
+      "sha256": "163774daa92fa42b65b00a1b45752b31ddaa2b33a84d6c750209d068e4e3c701",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-writing/modules/ai-style-editing.md",
+      "sha256": "0c2f75acdb0744f93582cd2908769a363cab665abcd8c4a18a2fb8d03b76c4ac",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-writing/resources/humanities-writing/references/translation-and-terminology.md",
+      "sha256": "303a7052003fc96021f27800b3eb3665d102deaa71da3521eccc79f88930cf2d",
+      "applied_to": [
+        "02-argument-and-translation"
+      ]
+    },
+    {
+      "path": "skills/humanities-writing/resources/humanities-writing/references/genres-and-delivery.md",
+      "sha256": "a6f2686322a835cda7e584a4166bf6bed18f14369ade6de918c97c6197b74f64",
+      "applied_to": [
+        "01-mill-research-question",
+        "02-argument-and-translation"
+      ]
+    }
+  ]
+}

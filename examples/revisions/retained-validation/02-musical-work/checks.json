@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "musical_body": {
+    "han_characters": 838,
+    "non_whitespace_characters": 923,
+    "paragraphs": 4
+  },
+  "musical_requested_han_range": [
+    700,
+    1000
+  ],
+  "transfer_body_excluding_historical_sentence": {
+    "han_characters": 744,
+    "non_whitespace_characters": 814,
+    "paragraphs": 4
+  },
+  "transfer_with_historical_sentence": {
+    "han_characters": 780,
+    "non_whitespace_characters": 852,
+    "paragraphs": 5
+  },
+  "transfer_requested_han_range": [
+    600,
+    900
+  ],
+  "english_sentence_count": 2,
+  "english_matches_old_result": true,
+  "source_snapshot_hashes_verified": true,
+  "frozen_scope": "Only the supplied two English sentences are edited in request two."
+}

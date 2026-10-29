@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "case": "02-musical-work",
+  "path_base": "public-tests/packages/candidate/skills",
+  "package": "candidate",
+  "files": [
+    {
+      "path": "humanities-review/SKILL.md",
+      "sha256": "508fe2c5fd2e54a0c7adba2fb42cf6f36e9384a0425ad8b0c940cad859283e34"
+    },
+    {
+      "path": "humanities-review/modules/review.md",
+      "sha256": "c587f273d0ace229b10e2d4f525e8548d1c3eea1070d420430da3a1241d2a3b6"
+    },
+    {
+      "path": "humanities-review/modules/defensive-editing.md",
+      "sha256": "163774daa92fa42b65b00a1b45752b31ddaa2b33a84d6c750209d068e4e3c701"
+    },
+    {
+      "path": "humanities-review/modules/argument.md",
+      "sha256": "26f88c7fec4c946883b1cfe66818107d940b715dc10846c49fe3730df4018f0b"
+    },
+    {
+      "path": "humanities-review/modules/close-reading.md",
+      "sha256": "a0d038b21f6be99d61f4e107d3dca626c271d0663992288d19ecfd60d13f3174"
+    },
+    {
+      "path": "humanities-review/modules/writing.md",
+      "sha256": "4cb343a715c117424c5db1d54e08f2a4bf1c91150f77521917018b5acc12fbb2"
+    },
+    {
+      "path": "humanities-review/modules/ai-style-editing.md",
+      "sha256": "0c2f75acdb0744f93582cd2908769a363cab665abcd8c4a18a2fb8d03b76c4ac"
+    },
+    {
+      "path": "humanities-review/resources/humanities-research/references/research-contract.md",
+      "sha256": "fe6b92db9aa83f7b4359bb0245ca481e20333cf60b691bb81dfa8009644b0c9c"
+    },
+    {
+      "path": "humanities-review/resources/humanities-research/references/method-router.md",
+      "sha256": "04292c1de3d3492b65437744a7564ec58aea4f25601bc2da58f46db15ae3bada"
+    },
+    {
+      "path": "humanities-review/resources/humanities-writing/references/genres-and-delivery.md",
+      "sha256": "a6f2686322a835cda7e584a4166bf6bed18f14369ade6de918c97c6197b74f64"
+    },
+    {
+      "path": "humanities-review/modules/concept-work.md",
+      "sha256": "5ad060bcfaa6670682c2a5d7d1d6e1a40f686e0d279a627746857b7f864e1a7f"
+    },
+    {
+      "path": "humanities-review/resources/humanities-research/references/methods/philosophical.md",
+      "sha256": "57f1364184890447f9f6f435ecaae43d163689ff20614f4583395e460d069511"
+    },
+    {
+      "path": "humanities-review/resources/humanities-writing/references/english-academic-writing.md",
+      "sha256": "11e0d9553a73f237cd9aff839333f555be66961653651cfc2d4a053d519d22e4"
+    },
+    {
+      "path": "humanities-writing/SKILL.md",
+      "sha256": "45787ea91faf8c9789f5ec937f19976becbc1028178da0723f88c8e45afa5b20"
+    },
+    {
+      "path": "humanities-writing/modules/ai-style-editing.md",
+      "sha256": "0c2f75acdb0744f93582cd2908769a363cab665abcd8c4a18a2fb8d03b76c4ac"
+    },
+    {
+      "path": "humanities-writing/modules/defensive-editing.md",
+      "sha256": "163774daa92fa42b65b00a1b45752b31ddaa2b33a84d6c750209d068e4e3c701"
+    },
+    {
+      "path": "humanities-writing/resources/humanities-writing/references/english-academic-writing.md",
+      "sha256": "11e0d9553a73f237cd9aff839333f555be66961653651cfc2d4a053d519d22e4"
+    }
+  ],
+  "shared_components_reused": true,
+  "personal_materials_loaded": false,
+  "network_used": false,
+  "source_snapshot_path_base": "case directory",
+  "source_snapshots": [
+    {
+      "path": "source/case-b.md",
+      "sha256": "c3af75871cf3f0e215041b615e0767b616c8e89c938ad695883d4555a7685d81",
+      "matches_original": true
+    },
+    {
+      "path": "source/b-result.md",
+      "sha256": "56e91b87665e44ff5b896de940cc0bfdcbf4088d082f526087e26da5ba06359e",
+      "matches_original": true
+    },
+    {
+      "path": "source/case-b-transfer.md",
+      "sha256": "f892eaaab97777f474124a1fa5698a30c4594a64a7f4ef22558496db61ed7ebe",
+      "matches_original": true
+    },
+    {
+      "path": "source/b-transfer.md",
+      "sha256": "258a57cf9ed35c509638701cc9224da9789273a3f74e9cbbb50630c12b4581a4",
+      "matches_original": true
+    },
+    {
+      "path": "source/evaluation-protocol.md",
+      "sha256": "8a2de056908783f97159d2223f1f7e7b58b649d50831cbd652564fc181bf17e6",
+      "matches_original": true
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "body": {
+    "han_characters": 838,
+    "non_whitespace_characters": 927,
+    "paragraphs": 4
+  },
+  "body_requested_han_range": [
+    700,
+    1000
+  ],
+  "method_note": {
+    "han_characters": 136,
+    "non_whitespace_characters": 149,
+    "paragraphs": 1
+  },
+  "method_note_requested_approximate_han_length": 150,
+  "source_snapshot_hashes_verified": true,
+  "public_synthetic_material_only": true
+}

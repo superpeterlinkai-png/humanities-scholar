@@ -13,7 +13,7 @@ def checked_sources(root):
     names = manifest["skills"]
     if not names or len(names) != len(set(names)):
         raise ValueError("Manifest has no skills or duplicate skills")
-    if any(not re.fullmatch(r"humanities-[a-z-]+", name) for name in names):
+    if any(not re.fullmatch(r"[a-z][a-z0-9-]*", name) for name in names):
         raise ValueError("Unsafe skill name")
     skills_root = (root / "skills").resolve()
     expected = manifest["files"]

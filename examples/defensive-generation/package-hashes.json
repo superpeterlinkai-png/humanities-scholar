@@ -1,0 +1,1206 @@
+[
+  {
+    "path": "baseline/skills/humanities-research/SKILL.md",
+    "sha256": "33aa6ede060f121399eb849284b00198a914e60f9cd8422f1026646d1e260eee"
+  },
+  {
+    "path": "baseline/skills/humanities-review/SKILL.md",
+    "sha256": "e31cf682b68c27ac058610e859f932e1262ced171521984b3d9e1c33ab59f3b9"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/SKILL.md",
+    "sha256": "b53c47a293e847ed0a28866e913837c650668125044f6d1f0ec3c1db90a0500b"
+  },
+  {
+    "path": "baseline/skills/humanities-research/agents/openai.yaml",
+    "sha256": "bd52177cba9557fed9cf24840eadf679e7f67a3e6df6b160a4191b9e53537536"
+  },
+  {
+    "path": "baseline/skills/humanities-research/licenses/humanizer-MIT.txt",
+    "sha256": "4ac4810254ab36d45419141aeb8e69bf50652cfafe5b2dab947d06d44e5cbf96"
+  },
+  {
+    "path": "baseline/skills/humanities-research/licenses/humanizer-zh-MIT.txt",
+    "sha256": "aa00e74769e1b9d8e7fa7094dbfcca9b129a0ded6dce1cf4da050b99146d2fa7"
+  },
+  {
+    "path": "baseline/skills/humanities-research/licenses/stop-slop-MIT.txt",
+    "sha256": "2e2b2beaf41cc0ce28485455a62aed81777cdcdf68702e142427aef1cd720f2c"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/ai-style-editing.md",
+    "sha256": "80a2713991cd57b99cfe824bcf5becbd5ed6e81f6fe81f14e1983e081a0225cc"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/argument.md",
+    "sha256": "5bbd25288fab5678b8b29d5a60d5f7ec4915176347d7a34133754ccf1dda1f47"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/author-voice.md",
+    "sha256": "d126a068f2f2d69a1b05bc023d2878f74acaa70d5f7a991381bcef52b294bc0a"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/close-reading.md",
+    "sha256": "cc4b2a666b1c47409a3b109c59556f7fc3be73314c57c1b1d84992e3290ad819"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/concept-work.md",
+    "sha256": "e026748a07a6c08a98b1de1391b8518ba073bebb3d0349bfe24f56e8848c136f"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/defensive-editing.md",
+    "sha256": "6bed5cc9341870858aedbf11c5c18441afebdade41e118156b7d46ec3e47fc07"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/humanizer-zh.md",
+    "sha256": "2715fe99db7a4f8310f6b1e48f5138012a7b4f225f5f8ed6bbbf6e3d64b3d70f"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/question-design.md",
+    "sha256": "e45425792fa2a5bdb561abfd7f2e51d48f9400f35af01f97940074c8540a78a1"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/research.md",
+    "sha256": "ca5e8755860e86fa79fd28dfe47185d529aad5967b1acf058fc466ff6fc20767"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/review.md",
+    "sha256": "f12efa997f454fd9849024f61eb8a561e2daacbb3f600ce6e56dad1f4d965e52"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/scholarship.md",
+    "sha256": "86b61e409ab7615e216a45bc590f5788178774360162b73ab3ba39241ba97e48"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/source-discovery.md",
+    "sha256": "3d6f584fa2d3635d32017267c42a50229e5261299f24c0eb93c4f86c6d28d538"
+  },
+  {
+    "path": "baseline/skills/humanities-research/modules/writing.md",
+    "sha256": "a8fdd97491cff9a6e63a945186518ac49aa63c5226217a4c349fc972aaebca74"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-ai-style-editing/references/patterns-and-examples.md",
+    "sha256": "1b877be6e96a8b505bdd022172df6609749f6c590d7f0947db59ef5b7c690dbc"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-author-voice/references/initial-preferences.md",
+    "sha256": "88cd368ec72ea47a52c4683b54d403f04da8776e4d73392a5977d3df167c23e1"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-author-voice/references/report-editing-evidence.md",
+    "sha256": "0912c21f1d54b0b000cc608ed5edbcd0df5f8973c481602867d121a2d101c4c8"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-author-voice/references/voice-profile.md",
+    "sha256": "f18259b56e42c8df81b1c22ee6d3e15208e45355d8a7167a89a6be721affae66"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-defensive-editing/references/decisions-and-examples.md",
+    "sha256": "b0ec273a290362493c5548687f544e1841ee89cfb4d7fcba35831ad8410b7d90"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-question-design/references/doctoral-proposals.md",
+    "sha256": "7dab2dc860c8f906b1ff52f78cc3659ec37ade715a4d4aafc8386941f102eca5"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-question-design/references/migration-sources.md",
+    "sha256": "3630a61756ec8462e50f4aeb1ef01fbf4eb81ef17adcd090c2bcd4dde0ee1531"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/design-sources.md",
+    "sha256": "9a8b97674a61c9e45e7d419e9f792c8534998e01412ea31b671e255339e8447f"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/method-router.md",
+    "sha256": "91703caf7244e854fea46058a6d14ece56dac0e9b0916895c5c817c17ac9af3f"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/project-continuity.md",
+    "sha256": "5c8f01de4cc7515e747670b32f8da32daeff04781d62fba87e3054d7b722fa2f"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/research-contract.md",
+    "sha256": "98d22cfcaa043cab309da19d96e6581c87396e5e7bf61bb034d72645a1492fb1"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/skill-coordination.md",
+    "sha256": "b2fbc946376d79ed0356012913b3e241becc3d73c2cb90090456abcecaa10390"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/methods/aesthetic.md",
+    "sha256": "9adaafd9567cc5d4929a9b467843aba1e3698473e22d61ba2e0850f1fe186338"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/methods/comparative.md",
+    "sha256": "b55d6bd1a1145e32b1a3a72d2dab2c9310d482c4ccb22ab1eb3eaf83b6568ab9"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/methods/critical-genealogical.md",
+    "sha256": "ff6134b4c7c84b38291b01221294138814c04718307810a416aead1fd51497aa"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/methods/historical-philological.md",
+    "sha256": "32f5faf580d8c2fa812005085fb8573a85defda13fceef8b3fa0efa1db0f9009"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/methods/literary.md",
+    "sha256": "443ca2cb1d38c5db8fb6e1a0560c0c38c169727a2f1071d186663491a9f95335"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/methods/phenomenological-hermeneutic.md",
+    "sha256": "5b4e238d893c8692afc435d90f41ce77500de75d064cf93ad4ebeeb2012dfb7c"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/methods/philosophical.md",
+    "sha256": "e62435cbd02cc1abe915460744b9d069a7b075741c38b6550178014132898069"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-research/references/methods/religion-practice.md",
+    "sha256": "af4f93ec228de536e092a868b74717224bab5e4f3758844a85c3e3f8e461caa5"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-review/references/latex-rules.md",
+    "sha256": "fb5a6eeadbe58ab191d91b05a29c3e73ea29e1a267834ce3647ca77bda4fd05f"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-review/references/migration-sources.md",
+    "sha256": "24b8d409dee29d495be9c3bb32e071f2af68497383455ed6481d21a57bfadee8"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-scholarship/references/migration-sources.md",
+    "sha256": "d2fb966f70d800ac0694a69ddd49a4a73be87a30b90283667b08c6eff662f55c"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-scholarship/references/synthesis-framework.md",
+    "sha256": "ef972e08b601d24055f04448ff4d33dec71b27ca2adab3138a9057c8f4c70ef0"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-source-discovery/references/migration-sources.md",
+    "sha256": "c6e2b35962601b5a3ffcffbcf96862b9703feb9445f044fc6a8b50f32e13462d"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-source-discovery/references/search-strategy.md",
+    "sha256": "632872c6e3d9d74321f0a3f5eeddb491e44f87ef68ea3b36dd55bc116b0e80ca"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-writing/references/chinese-academic-writing.md",
+    "sha256": "b2b4803c3fc8c86a01f6a8d995407675982dbcfbdd4da865158791b8f89be36a"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-writing/references/contribution-patterns.md",
+    "sha256": "f3625b52574251fa2f9fa4227450ac3a8d3b735c3294ac1c7b528ab5df9eeea5"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-writing/references/english-academic-writing.md",
+    "sha256": "2b649b21efde7f07cdb77f7b301db65f19f6bb75de709370ecd7741c0dd87b1f"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-writing/references/genres-and-delivery.md",
+    "sha256": "dd760548bf22608e2e1923a2e12eb4d0507239fd443c94c2999ba34c8ac63a8c"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-writing/references/introduction-route.md",
+    "sha256": "dc1351d3612542c922759626f043d24a7efd78f0caa5b7b997f6fd03f225e71e"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-writing/references/migration-sources.md",
+    "sha256": "8735d769493d13ed8da5fff111b5f3d37c6e5a2493f4f5fdf05f789242b5e4b3"
+  },
+  {
+    "path": "baseline/skills/humanities-research/resources/humanities-writing/references/translation-and-terminology.md",
+    "sha256": "c1b612ebabc04b81b0dca3888314b90043c87570f7e19982c79f5ee09d026eb4"
+  },
+  {
+    "path": "baseline/skills/humanities-review/agents/openai.yaml",
+    "sha256": "4f3431b8cfbbd2ebcb196c9d1e85ffabaf5c4a4ff1b76fc39984a5273254dce7"
+  },
+  {
+    "path": "baseline/skills/humanities-review/licenses/humanizer-MIT.txt",
+    "sha256": "4ac4810254ab36d45419141aeb8e69bf50652cfafe5b2dab947d06d44e5cbf96"
+  },
+  {
+    "path": "baseline/skills/humanities-review/licenses/humanizer-zh-MIT.txt",
+    "sha256": "aa00e74769e1b9d8e7fa7094dbfcca9b129a0ded6dce1cf4da050b99146d2fa7"
+  },
+  {
+    "path": "baseline/skills/humanities-review/licenses/stop-slop-MIT.txt",
+    "sha256": "2e2b2beaf41cc0ce28485455a62aed81777cdcdf68702e142427aef1cd720f2c"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/ai-style-editing.md",
+    "sha256": "80a2713991cd57b99cfe824bcf5becbd5ed6e81f6fe81f14e1983e081a0225cc"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/argument.md",
+    "sha256": "5bbd25288fab5678b8b29d5a60d5f7ec4915176347d7a34133754ccf1dda1f47"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/author-voice.md",
+    "sha256": "d126a068f2f2d69a1b05bc023d2878f74acaa70d5f7a991381bcef52b294bc0a"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/close-reading.md",
+    "sha256": "cc4b2a666b1c47409a3b109c59556f7fc3be73314c57c1b1d84992e3290ad819"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/concept-work.md",
+    "sha256": "e026748a07a6c08a98b1de1391b8518ba073bebb3d0349bfe24f56e8848c136f"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/defensive-editing.md",
+    "sha256": "6bed5cc9341870858aedbf11c5c18441afebdade41e118156b7d46ec3e47fc07"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/humanizer-zh.md",
+    "sha256": "2715fe99db7a4f8310f6b1e48f5138012a7b4f225f5f8ed6bbbf6e3d64b3d70f"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/question-design.md",
+    "sha256": "e45425792fa2a5bdb561abfd7f2e51d48f9400f35af01f97940074c8540a78a1"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/research.md",
+    "sha256": "ca5e8755860e86fa79fd28dfe47185d529aad5967b1acf058fc466ff6fc20767"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/review.md",
+    "sha256": "f12efa997f454fd9849024f61eb8a561e2daacbb3f600ce6e56dad1f4d965e52"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/scholarship.md",
+    "sha256": "86b61e409ab7615e216a45bc590f5788178774360162b73ab3ba39241ba97e48"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/source-discovery.md",
+    "sha256": "3d6f584fa2d3635d32017267c42a50229e5261299f24c0eb93c4f86c6d28d538"
+  },
+  {
+    "path": "baseline/skills/humanities-review/modules/writing.md",
+    "sha256": "a8fdd97491cff9a6e63a945186518ac49aa63c5226217a4c349fc972aaebca74"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-ai-style-editing/references/patterns-and-examples.md",
+    "sha256": "1b877be6e96a8b505bdd022172df6609749f6c590d7f0947db59ef5b7c690dbc"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-author-voice/references/initial-preferences.md",
+    "sha256": "88cd368ec72ea47a52c4683b54d403f04da8776e4d73392a5977d3df167c23e1"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-author-voice/references/report-editing-evidence.md",
+    "sha256": "0912c21f1d54b0b000cc608ed5edbcd0df5f8973c481602867d121a2d101c4c8"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-author-voice/references/voice-profile.md",
+    "sha256": "f18259b56e42c8df81b1c22ee6d3e15208e45355d8a7167a89a6be721affae66"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-defensive-editing/references/decisions-and-examples.md",
+    "sha256": "b0ec273a290362493c5548687f544e1841ee89cfb4d7fcba35831ad8410b7d90"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-question-design/references/doctoral-proposals.md",
+    "sha256": "7dab2dc860c8f906b1ff52f78cc3659ec37ade715a4d4aafc8386941f102eca5"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-question-design/references/migration-sources.md",
+    "sha256": "3630a61756ec8462e50f4aeb1ef01fbf4eb81ef17adcd090c2bcd4dde0ee1531"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/design-sources.md",
+    "sha256": "9a8b97674a61c9e45e7d419e9f792c8534998e01412ea31b671e255339e8447f"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/method-router.md",
+    "sha256": "91703caf7244e854fea46058a6d14ece56dac0e9b0916895c5c817c17ac9af3f"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/project-continuity.md",
+    "sha256": "5c8f01de4cc7515e747670b32f8da32daeff04781d62fba87e3054d7b722fa2f"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/research-contract.md",
+    "sha256": "98d22cfcaa043cab309da19d96e6581c87396e5e7bf61bb034d72645a1492fb1"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/skill-coordination.md",
+    "sha256": "b2fbc946376d79ed0356012913b3e241becc3d73c2cb90090456abcecaa10390"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/methods/aesthetic.md",
+    "sha256": "9adaafd9567cc5d4929a9b467843aba1e3698473e22d61ba2e0850f1fe186338"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/methods/comparative.md",
+    "sha256": "b55d6bd1a1145e32b1a3a72d2dab2c9310d482c4ccb22ab1eb3eaf83b6568ab9"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/methods/critical-genealogical.md",
+    "sha256": "ff6134b4c7c84b38291b01221294138814c04718307810a416aead1fd51497aa"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/methods/historical-philological.md",
+    "sha256": "32f5faf580d8c2fa812005085fb8573a85defda13fceef8b3fa0efa1db0f9009"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/methods/literary.md",
+    "sha256": "443ca2cb1d38c5db8fb6e1a0560c0c38c169727a2f1071d186663491a9f95335"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/methods/phenomenological-hermeneutic.md",
+    "sha256": "5b4e238d893c8692afc435d90f41ce77500de75d064cf93ad4ebeeb2012dfb7c"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/methods/philosophical.md",
+    "sha256": "e62435cbd02cc1abe915460744b9d069a7b075741c38b6550178014132898069"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-research/references/methods/religion-practice.md",
+    "sha256": "af4f93ec228de536e092a868b74717224bab5e4f3758844a85c3e3f8e461caa5"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-review/references/latex-rules.md",
+    "sha256": "fb5a6eeadbe58ab191d91b05a29c3e73ea29e1a267834ce3647ca77bda4fd05f"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-review/references/migration-sources.md",
+    "sha256": "24b8d409dee29d495be9c3bb32e071f2af68497383455ed6481d21a57bfadee8"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-scholarship/references/migration-sources.md",
+    "sha256": "d2fb966f70d800ac0694a69ddd49a4a73be87a30b90283667b08c6eff662f55c"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-scholarship/references/synthesis-framework.md",
+    "sha256": "ef972e08b601d24055f04448ff4d33dec71b27ca2adab3138a9057c8f4c70ef0"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-source-discovery/references/migration-sources.md",
+    "sha256": "c6e2b35962601b5a3ffcffbcf96862b9703feb9445f044fc6a8b50f32e13462d"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-source-discovery/references/search-strategy.md",
+    "sha256": "632872c6e3d9d74321f0a3f5eeddb491e44f87ef68ea3b36dd55bc116b0e80ca"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-writing/references/chinese-academic-writing.md",
+    "sha256": "b2b4803c3fc8c86a01f6a8d995407675982dbcfbdd4da865158791b8f89be36a"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-writing/references/contribution-patterns.md",
+    "sha256": "f3625b52574251fa2f9fa4227450ac3a8d3b735c3294ac1c7b528ab5df9eeea5"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-writing/references/english-academic-writing.md",
+    "sha256": "2b649b21efde7f07cdb77f7b301db65f19f6bb75de709370ecd7741c0dd87b1f"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-writing/references/genres-and-delivery.md",
+    "sha256": "dd760548bf22608e2e1923a2e12eb4d0507239fd443c94c2999ba34c8ac63a8c"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-writing/references/introduction-route.md",
+    "sha256": "dc1351d3612542c922759626f043d24a7efd78f0caa5b7b997f6fd03f225e71e"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-writing/references/migration-sources.md",
+    "sha256": "8735d769493d13ed8da5fff111b5f3d37c6e5a2493f4f5fdf05f789242b5e4b3"
+  },
+  {
+    "path": "baseline/skills/humanities-review/resources/humanities-writing/references/translation-and-terminology.md",
+    "sha256": "c1b612ebabc04b81b0dca3888314b90043c87570f7e19982c79f5ee09d026eb4"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/agents/openai.yaml",
+    "sha256": "90411d990b9b692d733d87214737cc0d06fcd10bdb538b404d2143c820c98ecb"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/licenses/humanizer-MIT.txt",
+    "sha256": "4ac4810254ab36d45419141aeb8e69bf50652cfafe5b2dab947d06d44e5cbf96"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/licenses/humanizer-zh-MIT.txt",
+    "sha256": "aa00e74769e1b9d8e7fa7094dbfcca9b129a0ded6dce1cf4da050b99146d2fa7"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/licenses/stop-slop-MIT.txt",
+    "sha256": "2e2b2beaf41cc0ce28485455a62aed81777cdcdf68702e142427aef1cd720f2c"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/ai-style-editing.md",
+    "sha256": "80a2713991cd57b99cfe824bcf5becbd5ed6e81f6fe81f14e1983e081a0225cc"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/argument.md",
+    "sha256": "5bbd25288fab5678b8b29d5a60d5f7ec4915176347d7a34133754ccf1dda1f47"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/author-voice.md",
+    "sha256": "d126a068f2f2d69a1b05bc023d2878f74acaa70d5f7a991381bcef52b294bc0a"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/close-reading.md",
+    "sha256": "cc4b2a666b1c47409a3b109c59556f7fc3be73314c57c1b1d84992e3290ad819"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/concept-work.md",
+    "sha256": "e026748a07a6c08a98b1de1391b8518ba073bebb3d0349bfe24f56e8848c136f"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/defensive-editing.md",
+    "sha256": "6bed5cc9341870858aedbf11c5c18441afebdade41e118156b7d46ec3e47fc07"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/humanizer-zh.md",
+    "sha256": "2715fe99db7a4f8310f6b1e48f5138012a7b4f225f5f8ed6bbbf6e3d64b3d70f"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/question-design.md",
+    "sha256": "e45425792fa2a5bdb561abfd7f2e51d48f9400f35af01f97940074c8540a78a1"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/research.md",
+    "sha256": "ca5e8755860e86fa79fd28dfe47185d529aad5967b1acf058fc466ff6fc20767"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/review.md",
+    "sha256": "f12efa997f454fd9849024f61eb8a561e2daacbb3f600ce6e56dad1f4d965e52"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/scholarship.md",
+    "sha256": "86b61e409ab7615e216a45bc590f5788178774360162b73ab3ba39241ba97e48"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/source-discovery.md",
+    "sha256": "3d6f584fa2d3635d32017267c42a50229e5261299f24c0eb93c4f86c6d28d538"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/modules/writing.md",
+    "sha256": "a8fdd97491cff9a6e63a945186518ac49aa63c5226217a4c349fc972aaebca74"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-ai-style-editing/references/patterns-and-examples.md",
+    "sha256": "1b877be6e96a8b505bdd022172df6609749f6c590d7f0947db59ef5b7c690dbc"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-author-voice/references/initial-preferences.md",
+    "sha256": "88cd368ec72ea47a52c4683b54d403f04da8776e4d73392a5977d3df167c23e1"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-author-voice/references/report-editing-evidence.md",
+    "sha256": "0912c21f1d54b0b000cc608ed5edbcd0df5f8973c481602867d121a2d101c4c8"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-author-voice/references/voice-profile.md",
+    "sha256": "f18259b56e42c8df81b1c22ee6d3e15208e45355d8a7167a89a6be721affae66"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-defensive-editing/references/decisions-and-examples.md",
+    "sha256": "b0ec273a290362493c5548687f544e1841ee89cfb4d7fcba35831ad8410b7d90"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-question-design/references/doctoral-proposals.md",
+    "sha256": "7dab2dc860c8f906b1ff52f78cc3659ec37ade715a4d4aafc8386941f102eca5"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-question-design/references/migration-sources.md",
+    "sha256": "3630a61756ec8462e50f4aeb1ef01fbf4eb81ef17adcd090c2bcd4dde0ee1531"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/design-sources.md",
+    "sha256": "9a8b97674a61c9e45e7d419e9f792c8534998e01412ea31b671e255339e8447f"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/method-router.md",
+    "sha256": "91703caf7244e854fea46058a6d14ece56dac0e9b0916895c5c817c17ac9af3f"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/project-continuity.md",
+    "sha256": "5c8f01de4cc7515e747670b32f8da32daeff04781d62fba87e3054d7b722fa2f"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/research-contract.md",
+    "sha256": "98d22cfcaa043cab309da19d96e6581c87396e5e7bf61bb034d72645a1492fb1"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/skill-coordination.md",
+    "sha256": "b2fbc946376d79ed0356012913b3e241becc3d73c2cb90090456abcecaa10390"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/methods/aesthetic.md",
+    "sha256": "9adaafd9567cc5d4929a9b467843aba1e3698473e22d61ba2e0850f1fe186338"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/methods/comparative.md",
+    "sha256": "b55d6bd1a1145e32b1a3a72d2dab2c9310d482c4ccb22ab1eb3eaf83b6568ab9"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/methods/critical-genealogical.md",
+    "sha256": "ff6134b4c7c84b38291b01221294138814c04718307810a416aead1fd51497aa"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/methods/historical-philological.md",
+    "sha256": "32f5faf580d8c2fa812005085fb8573a85defda13fceef8b3fa0efa1db0f9009"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/methods/literary.md",
+    "sha256": "443ca2cb1d38c5db8fb6e1a0560c0c38c169727a2f1071d186663491a9f95335"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/methods/phenomenological-hermeneutic.md",
+    "sha256": "5b4e238d893c8692afc435d90f41ce77500de75d064cf93ad4ebeeb2012dfb7c"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/methods/philosophical.md",
+    "sha256": "e62435cbd02cc1abe915460744b9d069a7b075741c38b6550178014132898069"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-research/references/methods/religion-practice.md",
+    "sha256": "af4f93ec228de536e092a868b74717224bab5e4f3758844a85c3e3f8e461caa5"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-review/references/latex-rules.md",
+    "sha256": "fb5a6eeadbe58ab191d91b05a29c3e73ea29e1a267834ce3647ca77bda4fd05f"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-review/references/migration-sources.md",
+    "sha256": "24b8d409dee29d495be9c3bb32e071f2af68497383455ed6481d21a57bfadee8"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-scholarship/references/migration-sources.md",
+    "sha256": "d2fb966f70d800ac0694a69ddd49a4a73be87a30b90283667b08c6eff662f55c"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-scholarship/references/synthesis-framework.md",
+    "sha256": "ef972e08b601d24055f04448ff4d33dec71b27ca2adab3138a9057c8f4c70ef0"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-source-discovery/references/migration-sources.md",
+    "sha256": "c6e2b35962601b5a3ffcffbcf96862b9703feb9445f044fc6a8b50f32e13462d"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-source-discovery/references/search-strategy.md",
+    "sha256": "632872c6e3d9d74321f0a3f5eeddb491e44f87ef68ea3b36dd55bc116b0e80ca"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-writing/references/chinese-academic-writing.md",
+    "sha256": "b2b4803c3fc8c86a01f6a8d995407675982dbcfbdd4da865158791b8f89be36a"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-writing/references/contribution-patterns.md",
+    "sha256": "f3625b52574251fa2f9fa4227450ac3a8d3b735c3294ac1c7b528ab5df9eeea5"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-writing/references/english-academic-writing.md",
+    "sha256": "2b649b21efde7f07cdb77f7b301db65f19f6bb75de709370ecd7741c0dd87b1f"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-writing/references/genres-and-delivery.md",
+    "sha256": "dd760548bf22608e2e1923a2e12eb4d0507239fd443c94c2999ba34c8ac63a8c"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-writing/references/introduction-route.md",
+    "sha256": "dc1351d3612542c922759626f043d24a7efd78f0caa5b7b997f6fd03f225e71e"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-writing/references/migration-sources.md",
+    "sha256": "8735d769493d13ed8da5fff111b5f3d37c6e5a2493f4f5fdf05f789242b5e4b3"
+  },
+  {
+    "path": "baseline/skills/humanities-writing/resources/humanities-writing/references/translation-and-terminology.md",
+    "sha256": "c1b612ebabc04b81b0dca3888314b90043c87570f7e19982c79f5ee09d026eb4"
+  },
+  {
+    "path": "candidate/skills/humanities-research/SKILL.md",
+    "sha256": "989a72cf95ad61300aec2450df4ed1dfb2c0cf86879650a0aed46074359f4512"
+  },
+  {
+    "path": "candidate/skills/humanities-review/SKILL.md",
+    "sha256": "508fe2c5fd2e54a0c7adba2fb42cf6f36e9384a0425ad8b0c940cad859283e34"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/SKILL.md",
+    "sha256": "45787ea91faf8c9789f5ec937f19976becbc1028178da0723f88c8e45afa5b20"
+  },
+  {
+    "path": "candidate/skills/humanities-research/agents/openai.yaml",
+    "sha256": "d851a97b77af361bc221830902e785b94e38e0666db734afeb87285b4351bb1e"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/ai-style-editing.md",
+    "sha256": "0c2f75acdb0744f93582cd2908769a363cab665abcd8c4a18a2fb8d03b76c4ac"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/argument.md",
+    "sha256": "26f88c7fec4c946883b1cfe66818107d940b715dc10846c49fe3730df4018f0b"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/author-voice.md",
+    "sha256": "d126a068f2f2d69a1b05bc023d2878f74acaa70d5f7a991381bcef52b294bc0a"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/close-reading.md",
+    "sha256": "a0d038b21f6be99d61f4e107d3dca626c271d0663992288d19ecfd60d13f3174"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/concept-work.md",
+    "sha256": "5ad060bcfaa6670682c2a5d7d1d6e1a40f686e0d279a627746857b7f864e1a7f"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/defensive-editing.md",
+    "sha256": "163774daa92fa42b65b00a1b45752b31ddaa2b33a84d6c750209d068e4e3c701"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/humanizer-zh.md",
+    "sha256": "f4ea654f29ba563d62b864afb2b5cdd0640d4f19af483ab3ccd138e3748a51fd"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/question-design.md",
+    "sha256": "95808023a34b477c8819c7f485589fcd58e113c7580ea5bc7f06541cba8249cb"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/research.md",
+    "sha256": "fdc0b0c76bb2a915a71065daccd138267473874456d9526ade677a717a81ab03"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/review.md",
+    "sha256": "c587f273d0ace229b10e2d4f525e8548d1c3eea1070d420430da3a1241d2a3b6"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/scholarship.md",
+    "sha256": "ca785a09180c91d8abe88ce08eecb797ac70bd84326d1fc01b9d5a1f4bca199b"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/source-discovery.md",
+    "sha256": "ef83965dcb6982d2faff7b114ccf77435f785d76edc62e0672118f506607713d"
+  },
+  {
+    "path": "candidate/skills/humanities-research/modules/writing.md",
+    "sha256": "4cb343a715c117424c5db1d54e08f2a4bf1c91150f77521917018b5acc12fbb2"
+  },
+  {
+    "path": "candidate/skills/humanities-research/scripts/sync_shared.py",
+    "sha256": "f545e879632150c40d256d9578ba0abf4420705d93827a39adcb54bf70485ac9"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-ai-style-editing/references/patterns-and-examples.md",
+    "sha256": "b6478b8a2a186b9cd0eba767146da519a6b49e6af7e2e1b43754036259e8f54b"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-author-voice/references/initial-preferences.md",
+    "sha256": "88cd368ec72ea47a52c4683b54d403f04da8776e4d73392a5977d3df167c23e1"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-author-voice/references/report-editing-evidence.md",
+    "sha256": "0912c21f1d54b0b000cc608ed5edbcd0df5f8973c481602867d121a2d101c4c8"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-author-voice/references/voice-profile.md",
+    "sha256": "8c301143e2b0146fc23cadc82f1397540ec262d526f995e203532e18998c548d"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-defensive-editing/references/decisions-and-examples.md",
+    "sha256": "97a0a00782b7f5e0543f6246b8e915afbe5b1189e7441e7493eadb346bbdbbe4"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-question-design/references/doctoral-proposals.md",
+    "sha256": "7c9fb68740ac84cf4a9a8cf72be826e7813e30b49aa65173f8169eea0b7eef2a"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-question-design/references/migration-sources.md",
+    "sha256": "39492b466bb00096ab0c1dabea04e38229c20efd8b99af96c9ecf8b5844281ab"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/design-sources.md",
+    "sha256": "5a1bb6ff476192395eded63c2507dcdc703b474974b38fd4bbf7db1f75a644e8"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/method-router.md",
+    "sha256": "04292c1de3d3492b65437744a7564ec58aea4f25601bc2da58f46db15ae3bada"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/project-continuity.md",
+    "sha256": "0ea6e4a8ef7bf0fc270e3bebfec8fa8be50a5f48f7385ee71f6adf743473dfbc"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/research-contract.md",
+    "sha256": "fe6b92db9aa83f7b4359bb0245ca481e20333cf60b691bb81dfa8009644b0c9c"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/skill-coordination.md",
+    "sha256": "2d39704a0256ca7520428077717963207249b28b630281cc19a4ff03475a81b8"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/methods/aesthetic.md",
+    "sha256": "31902dd0b787b06768017527975977e514dd2c6307df71b455952b883d1b8215"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/methods/comparative.md",
+    "sha256": "002392b1e199e59199546f441acd1aa9f1e1dadc888f9f2078cf18f63a5f8f18"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/methods/critical-genealogical.md",
+    "sha256": "46b5a03068daf391416e5f6f3d3079d14fa4a0a879e5369613bb6056bd0e0fa7"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/methods/historical-philological.md",
+    "sha256": "ac08e171633f54de6aecb38061be5b3813389fe63c4025e55f5eed420eca13eb"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/methods/literary.md",
+    "sha256": "e7afb6d7ab6dea841b6b284895ce58e3dc0cf907ca6cf9e0bcd00a01cd4a869c"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/methods/phenomenological-hermeneutic.md",
+    "sha256": "510966eadf1653703c02b5bc20382106a4e9ce6612015433046f94640278c1ae"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/methods/philosophical.md",
+    "sha256": "57f1364184890447f9f6f435ecaae43d163689ff20614f4583395e460d069511"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-research/references/methods/religion-practice.md",
+    "sha256": "d533768c5440ed8291c6513ab92ccf3a8e5da52726dd1c5d8ddabc90fdd1ffaf"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-review/references/latex-rules.md",
+    "sha256": "8159c2a15dbd7dd3565a020bc611f10b950d2517cd11f055741ac691130b613e"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-review/references/migration-sources.md",
+    "sha256": "0ec7c4486c1e6a75f7aadb541216a0a3822dee36f07dbaa64f088ea9cc264029"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-scholarship/references/migration-sources.md",
+    "sha256": "195421933f5520a1c1c93b8025b22a53e2880a0f916b7856a35619903dc81efb"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-scholarship/references/synthesis-framework.md",
+    "sha256": "c31caba89ff25ee1ecf991e3a7b9b48f6aa9002b4135e68aff0d9dbe53b06aef"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-source-discovery/references/migration-sources.md",
+    "sha256": "521eeba19c302fd54860f739becf5f9033f6c65841d81122b446df6bb02c2b60"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-source-discovery/references/search-strategy.md",
+    "sha256": "2e68525fd63071b4a8e2eb7d7c705049232d34356d97413affa8c301b4b35263"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-writing/references/argument-development.md",
+    "sha256": "987aa2f036865cc2a2a176c95eff6212d59639b4b46e208fb5858bdb0bf55e09"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-writing/references/chinese-academic-writing.md",
+    "sha256": "13fc7dcddb48083b95ab53cf7bbf610e3b13fca4534a2e879cdc4a85b1b36045"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-writing/references/contribution-patterns.md",
+    "sha256": "e693937a530fe1b82061c50512d2ca19cac77756bf6b55ab9b82abc554cb5518"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-writing/references/english-academic-writing.md",
+    "sha256": "11e0d9553a73f237cd9aff839333f555be66961653651cfc2d4a053d519d22e4"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-writing/references/genres-and-delivery.md",
+    "sha256": "a6f2686322a835cda7e584a4166bf6bed18f14369ade6de918c97c6197b74f64"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-writing/references/introduction-route.md",
+    "sha256": "78e7f21fff1369573d494e65d18d778655adda1afd84703d1fe251a148153ddb"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-writing/references/migration-sources.md",
+    "sha256": "7237431b7928db15314b46cf6f34e3f68cae6f70a3f177a89477ff2a38f0f073"
+  },
+  {
+    "path": "candidate/skills/humanities-research/resources/humanities-writing/references/translation-and-terminology.md",
+    "sha256": "303a7052003fc96021f27800b3eb3665d102deaa71da3521eccc79f88930cf2d"
+  },
+  {
+    "path": "candidate/skills/humanities-review/agents/openai.yaml",
+    "sha256": "48df0706fd7f9b10c3bade5c57f1ecd1e2d452321fd775b33b2e1f1694e99db6"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/ai-style-editing.md",
+    "sha256": "0c2f75acdb0744f93582cd2908769a363cab665abcd8c4a18a2fb8d03b76c4ac"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/argument.md",
+    "sha256": "26f88c7fec4c946883b1cfe66818107d940b715dc10846c49fe3730df4018f0b"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/author-voice.md",
+    "sha256": "d126a068f2f2d69a1b05bc023d2878f74acaa70d5f7a991381bcef52b294bc0a"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/close-reading.md",
+    "sha256": "a0d038b21f6be99d61f4e107d3dca626c271d0663992288d19ecfd60d13f3174"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/concept-work.md",
+    "sha256": "5ad060bcfaa6670682c2a5d7d1d6e1a40f686e0d279a627746857b7f864e1a7f"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/defensive-editing.md",
+    "sha256": "163774daa92fa42b65b00a1b45752b31ddaa2b33a84d6c750209d068e4e3c701"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/humanizer-zh.md",
+    "sha256": "f4ea654f29ba563d62b864afb2b5cdd0640d4f19af483ab3ccd138e3748a51fd"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/question-design.md",
+    "sha256": "95808023a34b477c8819c7f485589fcd58e113c7580ea5bc7f06541cba8249cb"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/research.md",
+    "sha256": "fdc0b0c76bb2a915a71065daccd138267473874456d9526ade677a717a81ab03"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/review.md",
+    "sha256": "c587f273d0ace229b10e2d4f525e8548d1c3eea1070d420430da3a1241d2a3b6"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/scholarship.md",
+    "sha256": "ca785a09180c91d8abe88ce08eecb797ac70bd84326d1fc01b9d5a1f4bca199b"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/source-discovery.md",
+    "sha256": "ef83965dcb6982d2faff7b114ccf77435f785d76edc62e0672118f506607713d"
+  },
+  {
+    "path": "candidate/skills/humanities-review/modules/writing.md",
+    "sha256": "4cb343a715c117424c5db1d54e08f2a4bf1c91150f77521917018b5acc12fbb2"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-ai-style-editing/references/patterns-and-examples.md",
+    "sha256": "b6478b8a2a186b9cd0eba767146da519a6b49e6af7e2e1b43754036259e8f54b"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-author-voice/references/initial-preferences.md",
+    "sha256": "88cd368ec72ea47a52c4683b54d403f04da8776e4d73392a5977d3df167c23e1"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-author-voice/references/report-editing-evidence.md",
+    "sha256": "0912c21f1d54b0b000cc608ed5edbcd0df5f8973c481602867d121a2d101c4c8"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-author-voice/references/voice-profile.md",
+    "sha256": "8c301143e2b0146fc23cadc82f1397540ec262d526f995e203532e18998c548d"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-defensive-editing/references/decisions-and-examples.md",
+    "sha256": "97a0a00782b7f5e0543f6246b8e915afbe5b1189e7441e7493eadb346bbdbbe4"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-question-design/references/doctoral-proposals.md",
+    "sha256": "7c9fb68740ac84cf4a9a8cf72be826e7813e30b49aa65173f8169eea0b7eef2a"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-question-design/references/migration-sources.md",
+    "sha256": "39492b466bb00096ab0c1dabea04e38229c20efd8b99af96c9ecf8b5844281ab"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/design-sources.md",
+    "sha256": "5a1bb6ff476192395eded63c2507dcdc703b474974b38fd4bbf7db1f75a644e8"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/method-router.md",
+    "sha256": "04292c1de3d3492b65437744a7564ec58aea4f25601bc2da58f46db15ae3bada"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/project-continuity.md",
+    "sha256": "0ea6e4a8ef7bf0fc270e3bebfec8fa8be50a5f48f7385ee71f6adf743473dfbc"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/research-contract.md",
+    "sha256": "fe6b92db9aa83f7b4359bb0245ca481e20333cf60b691bb81dfa8009644b0c9c"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/skill-coordination.md",
+    "sha256": "2d39704a0256ca7520428077717963207249b28b630281cc19a4ff03475a81b8"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/methods/aesthetic.md",
+    "sha256": "31902dd0b787b06768017527975977e514dd2c6307df71b455952b883d1b8215"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/methods/comparative.md",
+    "sha256": "002392b1e199e59199546f441acd1aa9f1e1dadc888f9f2078cf18f63a5f8f18"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/methods/critical-genealogical.md",
+    "sha256": "46b5a03068daf391416e5f6f3d3079d14fa4a0a879e5369613bb6056bd0e0fa7"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/methods/historical-philological.md",
+    "sha256": "ac08e171633f54de6aecb38061be5b3813389fe63c4025e55f5eed420eca13eb"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/methods/literary.md",
+    "sha256": "e7afb6d7ab6dea841b6b284895ce58e3dc0cf907ca6cf9e0bcd00a01cd4a869c"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/methods/phenomenological-hermeneutic.md",
+    "sha256": "510966eadf1653703c02b5bc20382106a4e9ce6612015433046f94640278c1ae"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/methods/philosophical.md",
+    "sha256": "57f1364184890447f9f6f435ecaae43d163689ff20614f4583395e460d069511"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-research/references/methods/religion-practice.md",
+    "sha256": "d533768c5440ed8291c6513ab92ccf3a8e5da52726dd1c5d8ddabc90fdd1ffaf"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-review/references/latex-rules.md",
+    "sha256": "8159c2a15dbd7dd3565a020bc611f10b950d2517cd11f055741ac691130b613e"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-review/references/migration-sources.md",
+    "sha256": "0ec7c4486c1e6a75f7aadb541216a0a3822dee36f07dbaa64f088ea9cc264029"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-scholarship/references/migration-sources.md",
+    "sha256": "195421933f5520a1c1c93b8025b22a53e2880a0f916b7856a35619903dc81efb"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-scholarship/references/synthesis-framework.md",
+    "sha256": "c31caba89ff25ee1ecf991e3a7b9b48f6aa9002b4135e68aff0d9dbe53b06aef"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-source-discovery/references/migration-sources.md",
+    "sha256": "521eeba19c302fd54860f739becf5f9033f6c65841d81122b446df6bb02c2b60"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-source-discovery/references/search-strategy.md",
+    "sha256": "2e68525fd63071b4a8e2eb7d7c705049232d34356d97413affa8c301b4b35263"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-writing/references/argument-development.md",
+    "sha256": "987aa2f036865cc2a2a176c95eff6212d59639b4b46e208fb5858bdb0bf55e09"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-writing/references/chinese-academic-writing.md",
+    "sha256": "13fc7dcddb48083b95ab53cf7bbf610e3b13fca4534a2e879cdc4a85b1b36045"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-writing/references/contribution-patterns.md",
+    "sha256": "e693937a530fe1b82061c50512d2ca19cac77756bf6b55ab9b82abc554cb5518"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-writing/references/english-academic-writing.md",
+    "sha256": "11e0d9553a73f237cd9aff839333f555be66961653651cfc2d4a053d519d22e4"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-writing/references/genres-and-delivery.md",
+    "sha256": "a6f2686322a835cda7e584a4166bf6bed18f14369ade6de918c97c6197b74f64"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-writing/references/introduction-route.md",
+    "sha256": "78e7f21fff1369573d494e65d18d778655adda1afd84703d1fe251a148153ddb"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-writing/references/migration-sources.md",
+    "sha256": "7237431b7928db15314b46cf6f34e3f68cae6f70a3f177a89477ff2a38f0f073"
+  },
+  {
+    "path": "candidate/skills/humanities-review/resources/humanities-writing/references/translation-and-terminology.md",
+    "sha256": "303a7052003fc96021f27800b3eb3665d102deaa71da3521eccc79f88930cf2d"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/agents/openai.yaml",
+    "sha256": "98390d9b1aff885b4ebf175e694aa0c12804f77650bfd3a7dbfaf59a19b5ee0f"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/ai-style-editing.md",
+    "sha256": "0c2f75acdb0744f93582cd2908769a363cab665abcd8c4a18a2fb8d03b76c4ac"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/argument.md",
+    "sha256": "26f88c7fec4c946883b1cfe66818107d940b715dc10846c49fe3730df4018f0b"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/author-voice.md",
+    "sha256": "d126a068f2f2d69a1b05bc023d2878f74acaa70d5f7a991381bcef52b294bc0a"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/close-reading.md",
+    "sha256": "a0d038b21f6be99d61f4e107d3dca626c271d0663992288d19ecfd60d13f3174"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/concept-work.md",
+    "sha256": "5ad060bcfaa6670682c2a5d7d1d6e1a40f686e0d279a627746857b7f864e1a7f"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/defensive-editing.md",
+    "sha256": "163774daa92fa42b65b00a1b45752b31ddaa2b33a84d6c750209d068e4e3c701"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/humanizer-zh.md",
+    "sha256": "f4ea654f29ba563d62b864afb2b5cdd0640d4f19af483ab3ccd138e3748a51fd"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/question-design.md",
+    "sha256": "95808023a34b477c8819c7f485589fcd58e113c7580ea5bc7f06541cba8249cb"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/research.md",
+    "sha256": "fdc0b0c76bb2a915a71065daccd138267473874456d9526ade677a717a81ab03"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/review.md",
+    "sha256": "c587f273d0ace229b10e2d4f525e8548d1c3eea1070d420430da3a1241d2a3b6"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/scholarship.md",
+    "sha256": "ca785a09180c91d8abe88ce08eecb797ac70bd84326d1fc01b9d5a1f4bca199b"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/source-discovery.md",
+    "sha256": "ef83965dcb6982d2faff7b114ccf77435f785d76edc62e0672118f506607713d"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/modules/writing.md",
+    "sha256": "4cb343a715c117424c5db1d54e08f2a4bf1c91150f77521917018b5acc12fbb2"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-ai-style-editing/references/patterns-and-examples.md",
+    "sha256": "b6478b8a2a186b9cd0eba767146da519a6b49e6af7e2e1b43754036259e8f54b"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-author-voice/references/initial-preferences.md",
+    "sha256": "88cd368ec72ea47a52c4683b54d403f04da8776e4d73392a5977d3df167c23e1"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-author-voice/references/report-editing-evidence.md",
+    "sha256": "0912c21f1d54b0b000cc608ed5edbcd0df5f8973c481602867d121a2d101c4c8"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-author-voice/references/voice-profile.md",
+    "sha256": "8c301143e2b0146fc23cadc82f1397540ec262d526f995e203532e18998c548d"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-defensive-editing/references/decisions-and-examples.md",
+    "sha256": "97a0a00782b7f5e0543f6246b8e915afbe5b1189e7441e7493eadb346bbdbbe4"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-question-design/references/doctoral-proposals.md",
+    "sha256": "7c9fb68740ac84cf4a9a8cf72be826e7813e30b49aa65173f8169eea0b7eef2a"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-question-design/references/migration-sources.md",
+    "sha256": "39492b466bb00096ab0c1dabea04e38229c20efd8b99af96c9ecf8b5844281ab"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/design-sources.md",
+    "sha256": "5a1bb6ff476192395eded63c2507dcdc703b474974b38fd4bbf7db1f75a644e8"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/method-router.md",
+    "sha256": "04292c1de3d3492b65437744a7564ec58aea4f25601bc2da58f46db15ae3bada"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/project-continuity.md",
+    "sha256": "0ea6e4a8ef7bf0fc270e3bebfec8fa8be50a5f48f7385ee71f6adf743473dfbc"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/research-contract.md",
+    "sha256": "fe6b92db9aa83f7b4359bb0245ca481e20333cf60b691bb81dfa8009644b0c9c"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/skill-coordination.md",
+    "sha256": "2d39704a0256ca7520428077717963207249b28b630281cc19a4ff03475a81b8"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/methods/aesthetic.md",
+    "sha256": "31902dd0b787b06768017527975977e514dd2c6307df71b455952b883d1b8215"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/methods/comparative.md",
+    "sha256": "002392b1e199e59199546f441acd1aa9f1e1dadc888f9f2078cf18f63a5f8f18"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/methods/critical-genealogical.md",
+    "sha256": "46b5a03068daf391416e5f6f3d3079d14fa4a0a879e5369613bb6056bd0e0fa7"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/methods/historical-philological.md",
+    "sha256": "ac08e171633f54de6aecb38061be5b3813389fe63c4025e55f5eed420eca13eb"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/methods/literary.md",
+    "sha256": "e7afb6d7ab6dea841b6b284895ce58e3dc0cf907ca6cf9e0bcd00a01cd4a869c"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/methods/phenomenological-hermeneutic.md",
+    "sha256": "510966eadf1653703c02b5bc20382106a4e9ce6612015433046f94640278c1ae"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/methods/philosophical.md",
+    "sha256": "57f1364184890447f9f6f435ecaae43d163689ff20614f4583395e460d069511"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-research/references/methods/religion-practice.md",
+    "sha256": "d533768c5440ed8291c6513ab92ccf3a8e5da52726dd1c5d8ddabc90fdd1ffaf"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-review/references/latex-rules.md",
+    "sha256": "8159c2a15dbd7dd3565a020bc611f10b950d2517cd11f055741ac691130b613e"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-review/references/migration-sources.md",
+    "sha256": "0ec7c4486c1e6a75f7aadb541216a0a3822dee36f07dbaa64f088ea9cc264029"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-scholarship/references/migration-sources.md",
+    "sha256": "195421933f5520a1c1c93b8025b22a53e2880a0f916b7856a35619903dc81efb"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-scholarship/references/synthesis-framework.md",
+    "sha256": "c31caba89ff25ee1ecf991e3a7b9b48f6aa9002b4135e68aff0d9dbe53b06aef"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-source-discovery/references/migration-sources.md",
+    "sha256": "521eeba19c302fd54860f739becf5f9033f6c65841d81122b446df6bb02c2b60"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-source-discovery/references/search-strategy.md",
+    "sha256": "2e68525fd63071b4a8e2eb7d7c705049232d34356d97413affa8c301b4b35263"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-writing/references/argument-development.md",
+    "sha256": "987aa2f036865cc2a2a176c95eff6212d59639b4b46e208fb5858bdb0bf55e09"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-writing/references/chinese-academic-writing.md",
+    "sha256": "13fc7dcddb48083b95ab53cf7bbf610e3b13fca4534a2e879cdc4a85b1b36045"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-writing/references/contribution-patterns.md",
+    "sha256": "e693937a530fe1b82061c50512d2ca19cac77756bf6b55ab9b82abc554cb5518"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-writing/references/english-academic-writing.md",
+    "sha256": "11e0d9553a73f237cd9aff839333f555be66961653651cfc2d4a053d519d22e4"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-writing/references/genres-and-delivery.md",
+    "sha256": "a6f2686322a835cda7e584a4166bf6bed18f14369ade6de918c97c6197b74f64"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-writing/references/introduction-route.md",
+    "sha256": "78e7f21fff1369573d494e65d18d778655adda1afd84703d1fe251a148153ddb"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-writing/references/migration-sources.md",
+    "sha256": "7237431b7928db15314b46cf6f34e3f68cae6f70a3f177a89477ff2a38f0f073"
+  },
+  {
+    "path": "candidate/skills/humanities-writing/resources/humanities-writing/references/translation-and-terminology.md",
+    "sha256": "303a7052003fc96021f27800b3eb3665d102deaa71da3521eccc79f88930cf2d"
+  }
+]

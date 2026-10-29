@@ -1,0 +1,14 @@
+{
+  "01-philosophical-reading": {
+    "A": "baseline",
+    "B": "candidate"
+  },
+  "02-literary-religious-experience": {
+    "A": "candidate",
+    "B": "baseline"
+  },
+  "03-aesthetics-essay": {
+    "A": "baseline",
+    "B": "candidate"
+  }
+}

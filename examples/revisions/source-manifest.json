@@ -1,0 +1,44 @@
+[
+  {
+    "source_repository": "humanities-skills-suite",
+    "source_commit": "437ea2c07d4563ed50accf6ee97532b21e2129c0",
+    "source_path": "examples/walkthroughs/01-mill-research-question/input.md",
+    "snapshot_path": "01-mill-research-question/source/input.md",
+    "sha256": "5161b56113d314b2bf1e218f2a592f5f9f347d59cf65aa499576dd90055a1a41"
+  },
+  {
+    "source_repository": "humanities-skills-suite",
+    "source_commit": "437ea2c07d4563ed50accf6ee97532b21e2129c0",
+    "source_path": "examples/walkthroughs/01-mill-research-question/prompts.md",
+    "snapshot_path": "01-mill-research-question/source/prompts.md",
+    "sha256": "82195f983e97ed43d28eecef415c6d8a2c02ed78a936089e843bbf04b3b4446c"
+  },
+  {
+    "source_repository": "humanities-skills-suite",
+    "source_commit": "437ea2c07d4563ed50accf6ee97532b21e2129c0",
+    "source_path": "examples/walkthroughs/01-mill-research-question/worked-example.md",
+    "snapshot_path": "01-mill-research-question/old-output.md",
+    "sha256": "39ee1d9f6d411ee67e5a903ea7a76d393bebc7df1ad9dec5be375397defc10f1"
+  },
+  {
+    "source_repository": "humanities-skills-suite",
+    "source_commit": "437ea2c07d4563ed50accf6ee97532b21e2129c0",
+    "source_path": "examples/walkthroughs/02-argument-and-translation/input.md",
+    "snapshot_path": "02-argument-and-translation/source/input.md",
+    "sha256": "75171dbfb5cd8577a184de510dc38b2c94d1738a846a95211206cbcf363a79d2"
+  },
+  {
+    "source_repository": "humanities-skills-suite",
+    "source_commit": "437ea2c07d4563ed50accf6ee97532b21e2129c0",
+    "source_path": "examples/walkthroughs/02-argument-and-translation/prompts.md",
+    "snapshot_path": "02-argument-and-translation/source/prompts.md",
+    "sha256": "25b64f89254b2d0baf4785eacdd261b472c2d78b7525ea24f31f6dafa0f621de"
+  },
+  {
+    "source_repository": "humanities-skills-suite",
+    "source_commit": "437ea2c07d4563ed50accf6ee97532b21e2129c0",
+    "source_path": "examples/walkthroughs/02-argument-and-translation/worked-example.md",
+    "snapshot_path": "02-argument-and-translation/old-output.md",
+    "sha256": "2907c97284db7f2486a6a632709abb3b0c4ab1a1cd747533c653cdb4c2ff89ee"
+  }
+]

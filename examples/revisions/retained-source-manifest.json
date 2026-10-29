@@ -1,0 +1,72 @@
+[
+  {
+    "snapshot_path": "retained-validation/01-ritual-silence/source/a-citation-reviewed.md",
+    "source_path": "validation/a-citation-reviewed.md",
+    "sha256": "e0918c0b378f4b87cfb43cf59fc68c46c9963856d588b0e8c7cede3b85d46cc9"
+  },
+  {
+    "snapshot_path": "retained-validation/01-ritual-silence/source/a-result.md",
+    "source_path": "validation/a-result.md",
+    "sha256": "0eb459a29dbc5e018978eba52f0243f2665e0bfc51bf81149ea7f8477e20dc60"
+  },
+  {
+    "snapshot_path": "retained-validation/01-ritual-silence/source/a-revised.md",
+    "source_path": "validation/a-revised.md",
+    "sha256": "26edd92de8d642e454cca58a08dc4ea9c40af3b43690b9c34052b37914a5d413"
+  },
+  {
+    "snapshot_path": "retained-validation/01-ritual-silence/source/case-a-followup.md",
+    "source_path": "validation/case-a-followup.md",
+    "sha256": "a32d42765748eb0d55dbfa8033f0cdb72f7b915a9672af40370531a0cf96351d"
+  },
+  {
+    "snapshot_path": "retained-validation/01-ritual-silence/source/case-a.md",
+    "source_path": "validation/case-a.md",
+    "sha256": "20c5392f067889a471e14eecc19df828613230830b1d66897ecf51a194d7c5a6"
+  },
+  {
+    "snapshot_path": "retained-validation/01-ritual-silence/source/evaluation-protocol.md",
+    "source_path": "validation/evaluation-protocol.md",
+    "sha256": "8a2de056908783f97159d2223f1f7e7b58b649d50831cbd652564fc181bf17e6"
+  },
+  {
+    "snapshot_path": "retained-validation/02-musical-work/source/b-result.md",
+    "source_path": "validation/b-result.md",
+    "sha256": "56e91b87665e44ff5b896de940cc0bfdcbf4088d082f526087e26da5ba06359e"
+  },
+  {
+    "snapshot_path": "retained-validation/02-musical-work/source/b-transfer.md",
+    "source_path": "validation/b-transfer.md",
+    "sha256": "258a57cf9ed35c509638701cc9224da9789273a3f74e9cbbb50630c12b4581a4"
+  },
+  {
+    "snapshot_path": "retained-validation/02-musical-work/source/case-b-transfer.md",
+    "source_path": "validation/case-b-transfer.md",
+    "sha256": "f892eaaab97777f474124a1fa5698a30c4594a64a7f4ef22558496db61ed7ebe"
+  },
+  {
+    "snapshot_path": "retained-validation/02-musical-work/source/case-b.md",
+    "source_path": "validation/case-b.md",
+    "sha256": "c3af75871cf3f0e215041b615e0767b616c8e89c938ad695883d4555a7685d81"
+  },
+  {
+    "snapshot_path": "retained-validation/02-musical-work/source/evaluation-protocol.md",
+    "source_path": "validation/evaluation-protocol.md",
+    "sha256": "8a2de056908783f97159d2223f1f7e7b58b649d50831cbd652564fc181bf17e6"
+  },
+  {
+    "snapshot_path": "retained-validation/03-literary-waiting/source/c-result.md",
+    "source_path": "validation/c-result.md",
+    "sha256": "0401878068eaa34bc1f820418603682c432db841cbdac9c29a194c7937bd50e3"
+  },
+  {
+    "snapshot_path": "retained-validation/03-literary-waiting/source/case-c.md",
+    "source_path": "validation/case-c.md",
+    "sha256": "744f085ce5b2b145cab2c76cac7ce4ce22de420e9940e88665c12be8135308a8"
+  },
+  {
+    "snapshot_path": "retained-validation/03-literary-waiting/source/evaluation-protocol.md",
+    "source_path": "validation/evaluation-protocol.md",
+    "sha256": "8a2de056908783f97159d2223f1f7e7b58b649d50831cbd652564fc181bf17e6"
+  }
+]

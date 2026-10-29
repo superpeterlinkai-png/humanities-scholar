@@ -15,3 +15,4 @@ jobs:
           python-version: '3.12'
       - run: python validate.py
       - run: python tests/test_install.py
+      - run: python tests/test_publication.py

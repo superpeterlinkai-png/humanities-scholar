@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-29",
+  "source_snapshot_checks": [
+    {
+      "path": "01-mill-research-question/source/input.md",
+      "byte_identical": true,
+      "hash_matches_manifest": true
+    },
+    {
+      "path": "01-mill-research-question/source/prompts.md",
+      "byte_identical": true,
+      "hash_matches_manifest": true
+    },
+    {
+      "path": "01-mill-research-question/old-output.md",
+      "byte_identical": true,
+      "hash_matches_manifest": true
+    },
+    {
+      "path": "02-argument-and-translation/source/input.md",
+      "byte_identical": true,
+      "hash_matches_manifest": true
+    },
+    {
+      "path": "02-argument-and-translation/source/prompts.md",
+      "byte_identical": true,
+      "hash_matches_manifest": true
+    },
+    {
+      "path": "02-argument-and-translation/old-output.md",
+      "byte_identical": true,
+      "hash_matches_manifest": true
+    }
+  ],
+  "source_snapshots_match": true,
+  "public_text_scan": {
+    "files_checked": 17,
+    "unexpected_identity_course_or_absolute_path_matches": []
+  },
+  "editorial_checks": [
+    {
+      "case": "01-mill-research-question",
+      "result": "E1-E4 attribution retained; actual opponents and imagined objections compared; the absence condition in E4 retained; next reading remains planned."
+    },
+    {
+      "case": "02-argument-and-translation",
+      "result": "The chosen negative conclusions and possible countermodel retained; feeling and interpretation distinguished within the same example; English reread against the revised Chinese, including the scope of in a particular reading."
+    }
+  ],
+  "review_record": "Human reading judgments are documented in each review.md; source hashes check snapshot integrity."
+}
